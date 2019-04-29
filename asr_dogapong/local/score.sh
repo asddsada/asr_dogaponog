@@ -1,0 +1,5 @@
+XSym
+0035
+0ca31fbc30fd618eb6c59756e5ae4ab4
+../steps/scoring/score_kaldi_wer.sh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

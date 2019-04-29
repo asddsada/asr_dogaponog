@@ -1,0 +1,5 @@
+XSym
+0041
+8215d53bce799f4c793d1151ef934ba0
+tuning/run_tdnn_100k_semisupervised_1a.sh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

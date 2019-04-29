@@ -1,0 +1,204 @@
+# online2-wav-nnet2-latgen-faster --online=true --do-endpointing=false --config=exp/nnet2_online/conf/online_nnet2_decoding.conf --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.1 --word-symbol-table=exp/nnet2_online/graph/words.txt exp/nnet2_online/final.mdl exp/nnet2_online/graph/HCLG.fst ark:exp/nnet2_online/decode_dev/per_utt/utt2spk.2 "ark,s,cs:wav-copy scp,p:data/dev/split2utt/2/wav.scp ark:- |" "ark:|gzip -c > exp/nnet2_online/decode_dev/lat.2.gz" 
+# Started at Mon Apr 29 07:48:51 UTC 2019
+#
+online2-wav-nnet2-latgen-faster --online=true --do-endpointing=false --config=exp/nnet2_online/conf/online_nnet2_decoding.conf --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.1 --word-symbol-table=exp/nnet2_online/graph/words.txt exp/nnet2_online/final.mdl exp/nnet2_online/graph/HCLG.fst ark:exp/nnet2_online/decode_dev/per_utt/utt2spk.2 'ark,s,cs:wav-copy scp,p:data/dev/split2utt/2/wav.scp ark:- |' 'ark:|gzip -c > exp/nnet2_online/decode_dev/lat.2.gz' 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+wav-copy scp,p:data/dev/split2utt/2/wav.scp ark:- 
+M5931042721_0000 เลื่อน ที 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0000
+M5931042721_0001 เลือก ขโมย เผื่อ จะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0001
+M5931042721_0003 เลือก เพื่อน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0003
+M5931042721_0006 กลับ ทอย ไป อัพ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0006
+M5931042721_0007 ออก อะไร ก็ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0007
+M5931042721_0008 เถอะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0008
+M5931042721_0009 คน ไหน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0009
+M5931042721_0010 ขอ คน ไอเทม เถอะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0010
+M5931042721_0011 ลูกเต๋า ขโมย 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0011
+M5931042721_0012 ของ พิเศษ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0012
+M5931042721_0013 ข้าพเจ้า มี ทอย ก็ ได้ เถอะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0013
+M5931042721_0016 เลื่อน แบบ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0016
+M5931042721_0017 ข้าพเจ้า มี อัพ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0017
+M5931042721_0018 ขอ ขโมย ลูกเต๋า 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0018
+M5931042721_0019 ขโมย ของ ทาง 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0019
+M5931042721_0020 แต่ ลง ไม่ เข้าใจ แสตท แบบ บลู 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0020
+M5931042721_0022 เหมือน ไหน เลือก ขโมย ชวาล 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0022
+M5931042721_0023 ขโมย ใช้ เล่น เกมส์ กัน ล่าง 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0023
+M5931042721_0024 ขอ จะ กด โอ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0024
+M5931042721_0025 แต่ หน่อย 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0025
+M5931042721_0026 เหมือน มี ของ ใน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0026
+M5931042721_0027 ช่อง ที่ สุด 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0027
+M5931042721_0028 ช่อง ที่ สุด 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0028
+M5931042721_0029 เอ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0029
+M5931042721_0030 ทอย ข้าพเจ้า มี 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0030
+M5931042721_0031 แต่ เหมือน กัน เถอะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0031
+M5931042721_0032 อะไร ก็ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0032
+M5931042721_0033 โอ ไม่ เข้าใจ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0033
+M5931042721_0034 เปิด 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0034
+M5931042721_0035 โอ ทอย ใช้ ไหน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0035
+M5931042721_0036 มั่ว เลือก ตี ก่อน คุกกี้ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0036
+M5931042721_0037 ทอย มี เถอะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0037
+M5931042721_0038 เพื่อน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0038
+M5931042721_0039 ป้องกัน ของ ใน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0039
+M5931042721_0040 ป้องกัน สุด 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0040
+M5931042721_0041 ป้องกัน พิเศษ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0041
+M5931042721_0042 แต่ หยุด สลับ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0042
+M5931042721_0043 หยุด อัพ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0043
+M5931042721_0044 แต่ นี้ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0044
+M5931042721_0046 หยุด ทอย กัน เถอะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0046
+M5931042721_0047 เอ ทอย ไป ที 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0047
+M5931042721_0048 ดี กัน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0048
+M5931042721_0049 แต่ เหมือน เถอะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0049
+M5931042721_0050 แต่ เหมือน บี 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0050
+M5931042721_0051 มี ฉัน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0051
+M5931042721_0052 มั่ว ชวาล 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0052
+M5931042721_0053 มั่ว ขโมย ล่าง 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0053
+M5931042721_0054 ทอย จะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0054
+M5931042721_0055 ทอย จะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0055
+M5931042721_0056 มั่ว ขโมย นี้ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0056
+M5931042721_0057 มั่ว ชื่อ บี 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0057
+M5931042721_0058 เถอะ อัพ ป้องกัน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0058
+M5931042721_0059 มั่ว ขโมย เกลือ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0059
+M5931042721_0060 แต่ ออก 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0060
+M5931042721_0061 ชื่อ ให้ หน่อย 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0061
+M5931042721_0062 ขโมย ของ ใน ขโมย ของ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0062
+M5931042721_0063 กลับ เอ บี ป้องกัน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0063
+M5931042721_0064 กลับ เอ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0064
+M5931042721_0065 มี ความ ประสงค์ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0065
+M5931042721_0066 อัพ เวท 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0066
+M5931042721_0067 ป้องกัน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0067
+M5931042721_0068 ซื้อ ของ พิเศษ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0068
+M5931042721_0069 ดราก้อน ไม่ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0069
+M5931042721_0070 ออก ของ บวก หนึ่ง 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0070
+M5931042721_0071 ออก ขอบ ฟ้า แต่ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0071
+M5931042721_0072 ออก ของ เอ บี เอ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0072
+M5931042721_0073 ออก ขโมย ของ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0073
+M5931042721_0074 โกวาจี 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0074
+M5931042721_0075 เอ บี เลือด 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0075
+M5931042721_0076 เอ บี นี้ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0076
+M5931042721_0077 เอ บี เอ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0077
+M5931042721_0078 เอ บี 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0078
+M5931042721_0079 เอ บี คุกกี้ ใกล้ หยุด 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0079
+M5931042721_0080 เถอะ จะ เถอะ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0080
+M5931042721_0081 เถอะ นี้ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0081
+M5931042721_0082 เลือก เข้าใจ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0082
+M5931042721_0083 โจมตี เกลือ หนึ่ง เอ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0083
+M5931042721_0084 เลือก ตี แต่ เหมือน ขึ้น ชวาล 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0084
+M5931042721_0086 หยุด หยุด ชีวิต หยุด กับ คน ดี 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0086
+M5931042721_0087 แต่ เหมือน ดี กัน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0087
+M5931042721_0088 สลับ สลับ ให้ พิเศษ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0088
+M5931042721_0089 ขอ สะกด 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0089
+M5931042721_0090 ขอ บี 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0090
+M5931042721_0091 ขอ ป้องกัน พิเศษ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0091
+M5931042721_0092 ขอ เอ บี 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0092
+M5931042721_0093 ขอ แต่ เหมือน ที 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0093
+M5931042721_0094 ขอ ไม่ ตี เพื่อน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0094
+M5931042721_0095 ให้ เพื่อน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0095
+M5931042721_0096 หยุด ให้ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0096
+M5931042721_0097 ขโมย ของ เลือก สลับ สลับ หนึ่ง 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0097
+M5931042721_0098 ขโมย ของ เลือก ขโมย ของ ป้องกัน 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0098
+M5931042721_0099 ขโมย ของ เลือก ตี มอนเตอร์ ทั้งหมด ที 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0099
+M5931042721_0100 สลับ ของ เลือก ตี กลับ ออก 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0100
+LOG (wav-copy[5.5.293~23-f8021]:main():wav-copy.cc:68) Copied 94 wave files
+M5931042721_0101 ไม่ เกลือ พิเศษ 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0101
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:36) Timing stats: real-time factor was 1.1869 (note: this cannot be less than one.)
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:38) Average delay was 0.39319 seconds.
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:42) Percentage of time spent idling was 66.881
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:44) Longest delay was 4.11777 seconds for utterance 'M5931042721_0097'
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:282) Decoded 94 utterances, 0 with errors.
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:284) Overall likelihood per frame was 0.0813515 per frame over 19583 frames.
+# Accounting: time=104 threads=1
+# Ended (code 0) at Mon Apr 29 07:50:35 UTC 2019, elapsed time 104 seconds
