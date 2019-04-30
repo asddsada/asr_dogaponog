@@ -1,11 +1,11 @@
 # cat exp/nnet2_online/decode_dev/scoring_kaldi/penalty_0.0/14.txt | align-text --special-symbol='***' ark:exp/nnet2_online/decode_dev/scoring_kaldi/test_filt.txt ark:- ark,t:- | utils/scoring/wer_per_utt_details.pl --special-symbol '***' | tee exp/nnet2_online/decode_dev/scoring_kaldi/wer_details/per_utt | utils/scoring/wer_per_spk_details.pl data/dev/utt2spk > exp/nnet2_online/decode_dev/scoring_kaldi/wer_details/per_spk 
-# Started at Mon Apr 29 11:39:16 UTC 2019
+# Started at Tue Apr 30 04:16:47 UTC 2019
 #
-utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
 align-text '--special-symbol=***' ark:exp/nnet2_online/decode_dev/scoring_kaldi/test_filt.txt ark:- ark,t:- 
+utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
 WARNING (align-text[5.5.293~23-f8021]:main():align-text.cc:88) Key M5931013521_0049 is in ark:exp/nnet2_online/decode_dev/scoring_kaldi/test_filt.txt, but not in ark:-
 LOG (align-text[5.5.293~23-f8021]:main():align-text.cc:135) Done 187 sentences, failed for 1
 utils/scoring/wer_per_utt_details.pl: Note: handling as utf-8 text
 utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
-# Accounting: time=1 threads=1
-# Ended (code 0) at Mon Apr 29 11:39:17 UTC 2019, elapsed time 1 seconds
+# Accounting: time=0 threads=1
+# Ended (code 0) at Tue Apr 30 04:16:47 UTC 2019, elapsed time 0 seconds

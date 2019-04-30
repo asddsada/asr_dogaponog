@@ -9,8 +9,10 @@ cp gowajee.vocab ../g2p/gowajee.vocab
 
 
 echo -e '\n******* train  arpa*******************************\n'
-ngram-count -vocab sl.vocab -text sl.train -order 10 -wbdiscount -maxent-convert-to-arpa -lm gowajee.arpa
-ngram-count -vocab sl.vocab -text sl.train -order 10 -wbdiscount -lm sl.lm
+#ngram-count -vocab sl.vocab -text sl.train -order 10 -wbdiscount -maxent-convert-to-arpa -lm gowajee.arpa
+#ngram-count -vocab sl.vocab -text sl.train -order 10 -wbdiscount -lm sl.lm
+build_class_ngram  sl.class.txt sl.train 10 sl.vocab sl.lm
+cp sl.lm gowajee.arpa
 ngram -order 0 -lm sl.lm -ppl sl.dev
 ngram -order 1 -lm sl.lm -ppl sl.dev
 ngram -order 2 -lm sl.lm -ppl sl.dev

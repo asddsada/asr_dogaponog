@@ -1,0 +1,10 @@
+ARROW ขึ้น
+ARROW ลง
+ARROW ซ้าย
+ARROW ขวา
+
+MAGIC เวทมนต์
+MAGIC เวท
+
+SHOP ร้าน
+SHOP ร้านค้า

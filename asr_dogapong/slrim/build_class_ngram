@@ -1,0 +1,20 @@
+#!/bin/bash
+#
+# build_class_ngram <classes> <dataset> <order> <vocab> <lm>
+#  classes  - Class-word mappings (SRILM classes-format)
+#  dataset  - Training corpus
+#  order    - n-gram order
+#  vocab    - Vocabulary file
+#  lm       - Output class n-gram model
+#
+# Intermediate files:
+#  tmp.classes - Classes with probabilities
+#  tmp.data    - Training corpus with class labels
+#  tmp.vocab   - Vocabulary with class labels
+#  tmp.lm      - Class label n-gram model
+
+replace-words-with-classes classes=$1 outfile=tmp.classes addone=2 $2 > /tmp/data.txt
+replace-words-with-classes classes=$1 $4 > /tmp/classvocab.txt
+awk '{print $1}' $1 | cat /tmp/classvocab.txt - | sort -u > tmp.vocab
+ngram-count -vocab tmp.vocab -text /tmp/data.txt -order $3 -lm tmp.lm -ukndiscount1 -ukndiscount2 -ukndiscount3
+ngram -order $3 -lm tmp.lm -classes tmp.classes -expand-classes $3 -expand-exact $3 -write-lm $5
