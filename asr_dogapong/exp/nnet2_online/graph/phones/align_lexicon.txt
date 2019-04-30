@@ -1,148 +1,57 @@
 <SIL> <SIL> SIL_S
 <UNK> <UNK> UNK_S
 <eps> <eps> SIL
-กด กด k_B o_I t^_E
+กดปุ่ม กดปุ่ม k_B d_I p_I u_I m^_E
+กดโอ กดโอ k_B d_I z_I oo_E
 กลับ กลับ kl_B a_I p^_E
-กัน กัน k_B a_I n^_E
-กับ กับ k_B a_I p^_E
-การ การ k_B aa_I n^_E
-ก็ ก็ k_B @@_E
-ก่อน ก่อน k_B @@_I n^_E
 ขวา ขวา khw_B aa_E
-ขอ ขอ kh_B @@_E
-ของ ของ kh_B @@_I ng^_E
-ขอบ ขอบ kh_B @@_I p^_E
 ขึ้น ขึ้น kh_B v_I n^_E
-ขโมย ขโมย kh_B a_I m_I oo_I j^_E
 ข้าง ข้าง kh_B aa_I ng^_E
-ข้าพเจ้า ข้าพเจ้า kh_B aa_I ph_I c_I ee_I aa_E
-ข้าม ข้าม kh_B aa_I m^_E
-คน คน kh_B o_I n^_E
-ความ ความ khw_B aa_I m^_E
-ความเร็ว ความเร็ว khw_B aa_I m^_I r_I e_I w^_E
-คิวบิด คิวบิด kh_B i_I p^_I qq_I t^_E
-คุกกี้ คุกกี้ kh_B u_I k^_I k_I ii_E
-ค่า ค่า kh_B aa_E
-จง จง c_B o_I ng^_E
-จะ จะ c_B a_E
-จัด จัด c_B a_I t^_E
-จาก จาก c_B aa_I k^_E
-ฉัน ฉัน ch_B a_I n^_E
-ชวาล ชวาล ch_B a_I w_I aa_I n^_E
-ชิ้น ชิ้น ch_B i_I n^_E
-ชีวิต ชีวิต ch_B ii_I w_I i_I t^_E
 ชื่อ ชื่อ ch_B vv_E
-ช่อง ช่อง ch_B @_I ng^_E
-ซื้อ ซื้อ s_B vv_E
 ซ้าย ซ้าย s_B aa_I j^_E
-ดราก้อน ดราก้อน dr_B aa_I k_I @@_I n^_E
-ดี ดี d_B ii_E
-ดู ดู d_B uu_E
-ด้าน ด้าน d_B aa_I n^_E
-ติวโตเรียล ติวโตเรียล t_B i_I w^_I t_I oo_I r_I iia_I l^_E
-ตี ตี t_B ii_E
+ตกลง ตกลง t_B kl_I ng^_E
+ตอบ ตอบ t_B @@_I p^_E
+ถูกต้อง ถูกต้อง th_B uu_I k^_I t_I @@_I ng^_E
 ทอย ทอย th_B @@_I j^_E
-ทั้งหมด ทั้งหมด th_B a_I ng^_I m_I o_I t^_E
-ทาง ทาง th_B aa_I ng^_E
-ทำนาย ทำนาย th_B a_I m^_I n_I aa_I j^_E
-ทำลาย ทำลาย th_B a_I m^_I l_I aa_I j^_E
-ที ที th_B ii_E
-ที่ ที่ th_B ii_E
+ทางไป ทางไป th_B aa_I ng^_I p_I a_I j^_E
 ธรรมดา ธรรมดา th_B m^_I m_I a_I d_I aa_E
-นาย นาย n_B aa_I j^_E
-นี้ นี้ n_B ii_E
 บน บน b_B o_I n^_E
-บลู บลู bl_B uu_E
 บวก บวก b_B uua_I k^_E
-บอส บอส b_B @@_I s^_E
-บี บี b_B ii_E
-บ้าง บ้าง b_B aa_I ng^_E
-ประสงค์ ประสงค์ pr_B a_I s_I o_I ng^_E
-ป้องกัน ป้องกัน p_B @_I ng^_I k_I a_I n^_E
-ผู้เล่น ผู้เล่น ph_B uu_I l_I e_I n^_E
-พลัง พลัง ph_B a_I ng^_E
+ปุ ปุ p_B u_E
+ปุ่มกด ปุ่มกด p_B u_I m^_I k_I o_I t^_E
 พิเศษ พิเศษ ph_B i_I s_I ee_I t^_E
-ฟ้า ฟ้า f_B aa_E
-มอน มอน m_B @@_I n^_E
-มอนเตอร์ มอนเตอร์ m_B @@_I n^_I t_I qq_E
 มัน มัน m_B a_I n^_E
-มั่ว มั่ว m_B uua_E
 มา มา m_B aa_E
-มิตรภาพ มิตรภาพ m_B i_I t^_I tr_I a_I ph_I aa_I p^_E
-มี มี m_B ii_E
+รอบ รอบ r_B @@_I p^_E
 รัว รัว r_B uua_E
-ร้าน ร้าน r_B aa_I n^_E
-ร้านค้า ร้านค้า r_B aa_I n^_I kh_I aa_E
 ลง ลง l_B o_I ng^_E
-ลอง ลอง l_B @@_I ng^_E
-ลาส ลาส l_B aa_I s^_E
 ลูกเต๋า ลูกเต๋า l_B uu_I k^_I t_I aa_I w^_E
 ล่าง ล่าง l_B e_I aa_I ng^_E
 สลับ สลับ s_B a_I l_I a_I p^_E
-สะกด สะกด s_B a_I k_I o_I t^_E
+สามเหลี่ยม สามเหลี่ยม s_B aa_I m^_I l_I ii_I m^_E
+สี่เหลี่ยม สี่เหลี่ยม s_B ii_I l_I ii_I m^_E
 สุด สุด s_B u_I t^_E
 สุ่ม สุ่ม s_B u_I m^_E
-หนึ่ง หนึ่ง n_B v_I ng^_E
-หน่อย หน่อย n_B @_I j^_E
+สแนป สแนป s_B n_I j^_E
+หนี หนี n_B ii_E
 หน้า หน้า n_B aa_E
-หมด หมด m_B o_I t^_E
-หยุด หยุด j_B u_I t^_E
-หลบหลีก หลบหลีก l_B o_I p^_I l_I ii_I k^_E
-อยู่ อยู่ j_B uu_E
+หลาย หลาย l_B aa_I j^_E
 ออก ออก z_B @@_I k^_E
-อะไร อะไร z_B a_I r_I a_I j^_E
-อัพ อัพ z_B a_I p^_E
-อาย อาย z_B aa_I j^_E
-อาร์ อาร์ z_B aa_E
-อีก อีก z_B ii_I k^_E
-เกมส์ เกมส์ k_B ee_I m^_E
-เกลือ เกลือ kl_B vva_E
-เข้าใจ เข้าใจ kh_B a_I w^_I c_I a_I j^_E
-เงิน เงิน ng_B q_I n^_E
-เจน เจน c_B ee_I n^_E
-เดิน เดิน d_B qq_I n^_E
 เดิม เดิม d_B qq_I m^_E
-เถอะ เถอะ th_B q_E
-เท่านั้น เท่านั้น th_B a_I w^_I n_I a_I n^_E
-เปลี่ยน เปลี่ยน pl_B iia_I n^_E
-เปิด เปิด p_B qq_I t^_E
-เป็น เป็น p_B e_I n^_E
-เผื่อ เผื่อ ph_B vva_E
-เพิ่ม เพิ่ม ph_B qq_I m^_E
-เพื่อน เพื่อน ph_B vva_I n^_E
+เยส เยส j_B s^_E
+เยอะ เยอะ j_B q_E
 เลย เลย l_B qq_I j^_E
 เลือก เลือก l_B vva_I k^_E
-เลือด เลือด l_B vva_I t^_E
-เลื่อน เลื่อน l_B vva_I n^_E
-เล่น เล่น l_B e_I n^_E
-เวท เวท w_B ee_I t^_E
-เวทมนตร์ เวทมนตร์ w_B ee_I t^_I m_I o_I n^_E
 เวทมนต์ เวทมนต์ w_B ee_I t^_I m_I o_I n^_E
-เหมือน เหมือน m_B vva_I n^_E
 เหรียญ เหรียญ r_B iia_I n^_E
-เอ เอ z_B ee_E
-เอง เอง z_B ee_I ng^_E
-เอส เอส z_B ee_I s^_E
-เอา เอา z_B ee_I aa_E
-แตะ แตะ t_B x_E
-แต่ แต่ t_B xx_E
-แต้ม แต้ม t_B xx_I m^_E
-แบบ แบบ b_B xx_I p^_E
-แย่ง แย่ง j_B xx_I ng^_E
-แสตท แสตท s_B a_I t_I t^_E
+เอ็ค เอ็ค z_B ee_I e_I kh_E
 โกวาจี โกวาจี z_B k_I aa_I c_I ii_E
-โจมตี โจมตี c_B oo_I m^_I t_I ii_E
-โดกาปอง โดกาปอง d_B oo_I k_I aa_I p^_I @@_I ng^_E
-โปรด โปรด pr_B oo_I t^_E
+โน โน z_B n^_E
+โยน โยน z_B n^_E
 โอ โอ z_B oo_E
 ใกล้ ใกล้ kl_B a_I j^_E
-ใช้ ใช้ ch_B a_I j^_E
-ใน ใน n_B a_I j^_E
-ให้ ให้ h_B a_I j^_E
-ได้ ได้ d_B aa_I j^_E
+ใช่ ใช่ ch_B a_E
+ใช้ท่า ใช้ท่า ch_B a_I j^_I th_I a_I w^_E
 ไป ไป p_B a_I j^_E
 ไม่ ไม่ m_B a_I j^_E
-ไวท์ ไวท์ w_B a_I j^_E
-ไหน ไหน n_B a_I j^_E
-ไอเทม ไอเทม z_B a_I j^_I th_I e_I m^_E
-ไอเท็ม ไอเท็ม z_B a_I j^_I th_I e_I m^_E
+ไม่ใช่ ไม่ใช่ m_B a_I j^_I ch_I a_E

@@ -1,147 +1,56 @@
 <SIL> 1.0 SIL_S
 <UNK> 1.0 UNK_S
-กด 0.585480 k_B o_I t^_E
+กดปุ่ม 0.107003 k_B d_I p_I u_I m^_E
+กดโอ 0.296814 k_B d_I z_I oo_E
 กลับ 0.947945 kl_B a_I p^_E
-กัน 0.992850 k_B a_I n^_E
-กับ 0.991008 k_B a_I p^_E
-การ 0.934628 k_B aa_I n^_E
-ก็ 0.989619 k_B @@_E
-ก่อน 0.810513 k_B @@_I n^_E
 ขวา 0.888242 khw_B aa_E
-ขอ 0.931494 kh_B @@_E
-ของ 0.987274 kh_B @@_I ng^_E
-ขอบ 0.993831 kh_B @@_I p^_E
 ขึ้น 0.984350 kh_B v_I n^_E
-ขโมย 0.880164 kh_B a_I m_I oo_I j^_E
 ข้าง 0.992535 kh_B aa_I ng^_E
-ข้าพเจ้า 0.330342 kh_B aa_I ph_I c_I ee_I aa_E
-ข้าม 0.991497 kh_B aa_I m^_E
-คน 0.592758 kh_B o_I n^_E
-ความ 0.997126 khw_B aa_I m^_E
-ความเร็ว 0.965237 khw_B aa_I m^_I r_I e_I w^_E
-คิวบิด 0.171565 kh_B i_I p^_I qq_I t^_E
-คุกกี้ 0.978002 kh_B u_I k^_I k_I ii_E
-ค่า 0.889335 kh_B aa_E
-จง 0.716281 c_B o_I ng^_E
-จะ 0.952970 c_B a_E
-จัด 0.984323 c_B a_I t^_E
-จาก 0.982111 c_B aa_I k^_E
-ฉัน 0.989750 ch_B a_I n^_E
-ชวาล 0.802574 ch_B a_I w_I aa_I n^_E
-ชิ้น 0.978481 ch_B i_I n^_E
-ชีวิต 0.985261 ch_B ii_I w_I i_I t^_E
 ชื่อ 0.755521 ch_B vv_E
-ช่อง 0.890087 ch_B @_I ng^_E
-ซื้อ 0.947963 s_B vv_E
 ซ้าย 0.992969 s_B aa_I j^_E
-ดราก้อน 0.908979 dr_B aa_I k_I @@_I n^_E
-ดี 0.952008 d_B ii_E
-ดู 0.973107 d_B uu_E
-ด้าน 0.947986 d_B aa_I n^_E
-ติวโตเรียล 0.964055 t_B i_I w^_I t_I oo_I r_I iia_I l^_E
-ตี 0.913688 t_B ii_E
+ตกลง 0.435635 t_B kl_I ng^_E
+ตอบ 0.713004 t_B @@_I p^_E
+ถูกต้อง 0.165338 th_B uu_I k^_I t_I @@_I ng^_E
 ทอย 0.946496 th_B @@_I j^_E
-ทั้งหมด 0.956778 th_B a_I ng^_I m_I o_I t^_E
-ทาง 0.962025 th_B aa_I ng^_E
-ทำนาย 0.994059 th_B a_I m^_I n_I aa_I j^_E
-ทำลาย 0.985737 th_B a_I m^_I l_I aa_I j^_E
-ที 0.986527 th_B ii_E
-ที่ 0.972553 th_B ii_E
+ทางไป 0.218662 th_B aa_I ng^_I p_I a_I j^_E
 ธรรมดา 0.383849 th_B m^_I m_I a_I d_I aa_E
-นาย 0.990924 n_B aa_I j^_E
-นี้ 0.966238 n_B ii_E
 บน 0.555617 b_B o_I n^_E
-บลู 0.917229 bl_B uu_E
 บวก 0.988899 b_B uua_I k^_E
-บอส 0.977129 b_B @@_I s^_E
-บี 0.966936 b_B ii_E
-บ้าง 0.968931 b_B aa_I ng^_E
-ประสงค์ 0.972354 pr_B a_I s_I o_I ng^_E
-ป้องกัน 0.971337 p_B @_I ng^_I k_I a_I n^_E
-ผู้เล่น 0.992424 ph_B uu_I l_I e_I n^_E
-พลัง 0.437974 ph_B a_I ng^_E
+ปุ 0.394245 p_B u_E
+ปุ่มกด 0.116796 p_B u_I m^_I k_I o_I t^_E
 พิเศษ 0.993047 ph_B i_I s_I ee_I t^_E
-ฟ้า 0.886988 f_B aa_E
-มอน 0.981703 m_B @@_I n^_E
-มอนเตอร์ 0.922573 m_B @@_I n^_I t_I qq_E
 มัน 0.924637 m_B a_I n^_E
-มั่ว 0.975199 m_B uua_E
 มา 0.792861 m_B aa_E
-มิตรภาพ 0.970483 m_B i_I t^_I tr_I a_I ph_I aa_I p^_E
-มี 0.960067 m_B ii_E
+รอบ 0.966644 r_B @@_I p^_E
 รัว 0.977185 r_B uua_E
-ร้าน 0.995352 r_B aa_I n^_E
-ร้านค้า 0.881964 r_B aa_I n^_I kh_I aa_E
 ลง 0.817235 l_B o_I ng^_E
-ลอง 0.915674 l_B @@_I ng^_E
-ลาส 0.992307 l_B aa_I s^_E
 ลูกเต๋า 0.915774 l_B uu_I k^_I t_I aa_I w^_E
 ล่าง 0.417588 l_B e_I aa_I ng^_E
 สลับ 0.746948 s_B a_I l_I a_I p^_E
-สะกด 0.876341 s_B a_I k_I o_I t^_E
+สามเหลี่ยม 0.310699 s_B aa_I m^_I l_I ii_I m^_E
+สี่เหลี่ยม 0.140596 s_B ii_I l_I ii_I m^_E
 สุด 0.993333 s_B u_I t^_E
 สุ่ม 0.992769 s_B u_I m^_E
-หนึ่ง 0.990411 n_B v_I ng^_E
-หน่อย 0.956983 n_B @_I j^_E
+สแนป 0.022706 s_B n_I j^_E
+หนี 0.981330 n_B ii_E
 หน้า 0.883672 n_B aa_E
-หมด 0.980107 m_B o_I t^_E
-หยุด 0.992549 j_B u_I t^_E
-หลบหลีก 0.958974 l_B o_I p^_I l_I ii_I k^_E
-อยู่ 0.951401 j_B uu_E
+หลาย 0.958272 l_B aa_I j^_E
 ออก 0.935196 z_B @@_I k^_E
-อะไร 0.893025 z_B a_I r_I a_I j^_E
-อัพ 0.990663 z_B a_I p^_E
-อาย 0.975092 z_B aa_I j^_E
-อาร์ 0.735911 z_B aa_E
-อีก 0.963727 z_B ii_I k^_E
-เกมส์ 0.977388 k_B ee_I m^_E
-เกลือ 0.972997 kl_B vva_E
-เข้าใจ 0.919921 kh_B a_I w^_I c_I a_I j^_E
-เงิน 0.976708 ng_B q_I n^_E
-เจน 0.884989 c_B ee_I n^_E
-เดิน 0.963077 d_B qq_I n^_E
 เดิม 0.986935 d_B qq_I m^_E
-เถอะ 0.989621 th_B q_E
-เท่านั้น 0.885057 th_B a_I w^_I n_I a_I n^_E
-เปลี่ยน 0.961436 pl_B iia_I n^_E
-เปิด 0.979173 p_B qq_I t^_E
-เป็น 0.971906 p_B e_I n^_E
-เผื่อ 0.979816 ph_B vva_E
-เพิ่ม 0.965341 ph_B qq_I m^_E
-เพื่อน 0.982510 ph_B vva_I n^_E
+เยส 0.665503 j_B s^_E
+เยอะ 0.967326 j_B q_E
 เลย 0.819477 l_B qq_I j^_E
 เลือก 0.975450 l_B vva_I k^_E
-เลือด 0.703335 l_B vva_I t^_E
-เลื่อน 0.980194 l_B vva_I n^_E
-เล่น 0.994777 l_B e_I n^_E
-เวท 0.991356 w_B ee_I t^_E
-เวทมนตร์ 0.700766 w_B ee_I t^_I m_I o_I n^_E
 เวทมนต์ 0.972390 w_B ee_I t^_I m_I o_I n^_E
-เหมือน 0.973556 m_B vva_I n^_E
 เหรียญ 0.989127 r_B iia_I n^_E
-เอ 0.787446 z_B ee_E
-เอง 0.701968 z_B ee_I ng^_E
-เอส 0.958721 z_B ee_I s^_E
-เอา 0.299096 z_B ee_I aa_E
-แตะ 0.846359 t_B x_E
-แต่ 0.968171 t_B xx_E
-แต้ม 0.985561 t_B xx_I m^_E
-แบบ 0.981988 b_B xx_I p^_E
-แย่ง 0.971886 j_B xx_I ng^_E
-แสตท 0.991808 s_B a_I t_I t^_E
+เอ็ค 0.280775 z_B ee_I e_I kh_E
 โกวาจี 0.036491 z_B k_I aa_I c_I ii_E
-โจมตี 0.989340 c_B oo_I m^_I t_I ii_E
-โดกาปอง 0.981426 d_B oo_I k_I aa_I p^_I @@_I ng^_E
-โปรด 0.975336 pr_B oo_I t^_E
+โน 0.178411 z_B n^_E
+โยน 0.157278 z_B n^_E
 โอ 0.895752 z_B oo_E
 ใกล้ 0.963781 kl_B a_I j^_E
-ใช้ 0.986476 ch_B a_I j^_E
-ใน 0.346632 n_B a_I j^_E
-ให้ 0.976988 h_B a_I j^_E
-ได้ 0.977464 d_B aa_I j^_E
+ใช่ 0.828127 ch_B a_E
+ใช้ท่า 0.495594 ch_B a_I j^_I th_I a_I w^_E
 ไป 0.786244 p_B a_I j^_E
 ไม่ 0.952465 m_B a_I j^_E
-ไวท์ 0.929099 w_B a_I j^_E
-ไหน 0.892135 n_B a_I j^_E
-ไอเทม 0.782052 z_B a_I j^_I th_I e_I m^_E
-ไอเท็ม 0.988244 z_B a_I j^_I th_I e_I m^_E
+ไม่ใช่ 0.734452 m_B a_I j^_I ch_I a_E

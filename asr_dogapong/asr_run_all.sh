@@ -6,24 +6,28 @@ ngram-count -write-vocab sl.vocab -text sl.train
 sed -n '5,$p' sl.vocab | sort -u > gowajee.vocab
 cp gowajee.vocab ../data/gowajee.vocab
 cp gowajee.vocab ../g2p/gowajee.vocab
+#cut -f 1 -d$' ' sl.manual.classes | sort -u >> gowajee.vocab
 
 
 echo -e '\n******* train  arpa*******************************\n'
 #ngram-count -vocab sl.vocab -text sl.train -order 10 -wbdiscount -maxent-convert-to-arpa -lm gowajee.arpa
 #ngram-count -vocab sl.vocab -text sl.train -order 10 -wbdiscount -lm sl.lm
-build_class_ngram  sl.class.txt sl.train 10 sl.vocab sl.lm
-cp sl.lm gowajee.arpa
-ngram -order 0 -lm sl.lm -ppl sl.dev
-ngram -order 1 -lm sl.lm -ppl sl.dev
-ngram -order 2 -lm sl.lm -ppl sl.dev
-ngram -order 3 -lm sl.lm -ppl sl.dev
-ngram -order 4 -lm sl.lm -ppl sl.dev
-ngram -order 5 -lm sl.lm -ppl sl.dev
-ngram -order 6 -lm sl.lm -ppl sl.dev
-ngram -order 7 -lm sl.lm -ppl sl.dev
-ngram -order 8 -lm sl.lm -ppl sl.dev
-ngram -order 9 -lm sl.lm -ppl sl.dev
-ngram -order 10 -lm sl.lm -ppl sl.dev
+#ngram -order 10 -lm sl.lm -classes sl.manual.classes -expand-classes 10 -expand-exact 10 -write-lm sl.mclass.lm
+
+./build_class_ngram  sl.manual.classes sl.train 10 sl.vocab sl.mclass.lm
+ngram -order 0 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 1 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 2 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 3 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 4 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 5 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 6 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 7 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 8 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 9 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 10 -lm sl.mclass.lm -ppl sl.dev
+cp tmp.lm gowajee.arpa
+#cp sl.mclass.lm gowajee.arpa
 gzip gowajee.arpa
 cp gowajee.arpa.gz ../data/
 
@@ -47,6 +51,7 @@ utils/prepare_lang.sh data/local/dict "<UNK>" data/local/lang data/lang
 
 echo -e '\n******* format_lm *******************************\n'
 ./utils/format_lm.sh data/lang data/gowajee.arpa.gz data/local/dict/lexicon.txt data/lang
+utils/prepare_lang.sh data/local/dict "<UNK>" data/local/lang data/lang
 
 echo -e '\n*******  HCLG  *******************************\n'
 utils/mkgraph.sh data/lang exp/nnet2_online exp/nnet2_online/graph

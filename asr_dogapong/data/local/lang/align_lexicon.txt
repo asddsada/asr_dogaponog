@@ -1,148 +1,57 @@
 <SIL> SIL_S
 <UNK> UNK_S
-กด k_B o_I t^_E
+กดปุ่ม k_B d_I p_I u_I m^_E
+กดโอ k_B d_I z_I oo_E
 กลับ kl_B a_I p^_E
-กัน k_B a_I n^_E
-กับ k_B a_I p^_E
-การ k_B aa_I n^_E
-ก็ k_B @@_E
-ก่อน k_B @@_I n^_E
 ขวา khw_B aa_E
-ขอ kh_B @@_E
-ของ kh_B @@_I ng^_E
-ขอบ kh_B @@_I p^_E
 ขึ้น kh_B v_I n^_E
-ขโมย kh_B a_I m_I oo_I j^_E
 ข้าง kh_B aa_I ng^_E
-ข้าพเจ้า kh_B aa_I ph_I c_I ee_I aa_E
-ข้าม kh_B aa_I m^_E
-คน kh_B o_I n^_E
-ความ khw_B aa_I m^_E
-ความเร็ว khw_B aa_I m^_I r_I e_I w^_E
-คิวบิด kh_B i_I p^_I qq_I t^_E
-คุกกี้ kh_B u_I k^_I k_I ii_E
-ค่า kh_B aa_E
-จง c_B o_I ng^_E
-จะ c_B a_E
-จัด c_B a_I t^_E
-จาก c_B aa_I k^_E
-ฉัน ch_B a_I n^_E
-ชวาล ch_B a_I w_I aa_I n^_E
-ชิ้น ch_B i_I n^_E
-ชีวิต ch_B ii_I w_I i_I t^_E
 ชื่อ ch_B vv_E
-ช่อง ch_B @_I ng^_E
-ซื้อ s_B vv_E
 ซ้าย s_B aa_I j^_E
-ดราก้อน dr_B aa_I k_I @@_I n^_E
-ดี d_B ii_E
-ดู d_B uu_E
-ด้าน d_B aa_I n^_E
-ติวโตเรียล t_B i_I w^_I t_I oo_I r_I iia_I l^_E
-ตี t_B ii_E
+ตกลง t_B kl_I ng^_E
+ตอบ t_B @@_I p^_E
+ถูกต้อง th_B uu_I k^_I t_I @@_I ng^_E
 ทอย th_B @@_I j^_E
-ทั้งหมด th_B a_I ng^_I m_I o_I t^_E
-ทาง th_B aa_I ng^_E
-ทำนาย th_B a_I m^_I n_I aa_I j^_E
-ทำลาย th_B a_I m^_I l_I aa_I j^_E
-ที th_B ii_E
-ที่ th_B ii_E
+ทางไป th_B aa_I ng^_I p_I a_I j^_E
 ธรรมดา th_B m^_I m_I a_I d_I aa_E
-นาย n_B aa_I j^_E
-นี้ n_B ii_E
 บน b_B o_I n^_E
-บลู bl_B uu_E
 บวก b_B uua_I k^_E
-บอส b_B @@_I s^_E
-บี b_B ii_E
-บ้าง b_B aa_I ng^_E
-ประสงค์ pr_B a_I s_I o_I ng^_E
-ป้องกัน p_B @_I ng^_I k_I a_I n^_E
-ผู้เล่น ph_B uu_I l_I e_I n^_E
-พลัง ph_B a_I ng^_E
+ปุ p_B u_E
+ปุ่มกด p_B u_I m^_I k_I o_I t^_E
 พิเศษ ph_B i_I s_I ee_I t^_E
-ฟ้า f_B aa_E
-มอน m_B @@_I n^_E
-มอนเตอร์ m_B @@_I n^_I t_I qq_E
 มัน m_B a_I n^_E
-มั่ว m_B uua_E
 มา m_B aa_E
-มิตรภาพ m_B i_I t^_I tr_I a_I ph_I aa_I p^_E
-มี m_B ii_E
+รอบ r_B @@_I p^_E
 รัว r_B uua_E
-ร้าน r_B aa_I n^_E
-ร้านค้า r_B aa_I n^_I kh_I aa_E
 ลง l_B o_I ng^_E
-ลอง l_B @@_I ng^_E
-ลาส l_B aa_I s^_E
 ลูกเต๋า l_B uu_I k^_I t_I aa_I w^_E
 ล่าง l_B e_I aa_I ng^_E
 สลับ s_B a_I l_I a_I p^_E
-สะกด s_B a_I k_I o_I t^_E
+สามเหลี่ยม s_B aa_I m^_I l_I ii_I m^_E
+สี่เหลี่ยม s_B ii_I l_I ii_I m^_E
 สุด s_B u_I t^_E
 สุ่ม s_B u_I m^_E
-หนึ่ง n_B v_I ng^_E
-หน่อย n_B @_I j^_E
+สแนป s_B n_I j^_E
+หนี n_B ii_E
 หน้า n_B aa_E
-หมด m_B o_I t^_E
-หยุด j_B u_I t^_E
-หลบหลีก l_B o_I p^_I l_I ii_I k^_E
-อยู่ j_B uu_E
+หลาย l_B aa_I j^_E
 ออก z_B @@_I k^_E
-อะไร z_B a_I r_I a_I j^_E
-อัพ z_B a_I p^_E
-อาย z_B aa_I j^_E
-อาร์ z_B aa_E
-อีก z_B ii_I k^_E
-เกมส์ k_B ee_I m^_E
-เกลือ kl_B vva_E
-เข้าใจ kh_B a_I w^_I c_I a_I j^_E
-เงิน ng_B q_I n^_E
-เจน c_B ee_I n^_E
-เดิน d_B qq_I n^_E
 เดิม d_B qq_I m^_E
-เถอะ th_B q_E
-เท่านั้น th_B a_I w^_I n_I a_I n^_E
-เปลี่ยน pl_B iia_I n^_E
-เปิด p_B qq_I t^_E
-เป็น p_B e_I n^_E
-เผื่อ ph_B vva_E
-เพิ่ม ph_B qq_I m^_E
-เพื่อน ph_B vva_I n^_E
+เยส j_B s^_E
+เยอะ j_B q_E
 เลย l_B qq_I j^_E
 เลือก l_B vva_I k^_E
-เลือด l_B vva_I t^_E
-เลื่อน l_B vva_I n^_E
-เล่น l_B e_I n^_E
-เวท w_B ee_I t^_E
-เวทมนตร์ w_B ee_I t^_I m_I o_I n^_E
 เวทมนต์ w_B ee_I t^_I m_I o_I n^_E
-เหมือน m_B vva_I n^_E
 เหรียญ r_B iia_I n^_E
-เอ z_B ee_E
-เอง z_B ee_I ng^_E
-เอส z_B ee_I s^_E
-เอา z_B ee_I aa_E
-แตะ t_B x_E
-แต่ t_B xx_E
-แต้ม t_B xx_I m^_E
-แบบ b_B xx_I p^_E
-แย่ง j_B xx_I ng^_E
-แสตท s_B a_I t_I t^_E
+เอ็ค z_B ee_I e_I kh_E
 โกวาจี z_B k_I aa_I c_I ii_E
-โจมตี c_B oo_I m^_I t_I ii_E
-โดกาปอง d_B oo_I k_I aa_I p^_I @@_I ng^_E
-โปรด pr_B oo_I t^_E
+โน z_B n^_E
+โยน z_B n^_E
 โอ z_B oo_E
 ใกล้ kl_B a_I j^_E
-ใช้ ch_B a_I j^_E
-ใน n_B a_I j^_E
-ให้ h_B a_I j^_E
-ได้ d_B aa_I j^_E
+ใช่ ch_B a_E
+ใช้ท่า ch_B a_I j^_I th_I a_I w^_E
 ไป p_B a_I j^_E
 ไม่ m_B a_I j^_E
-ไวท์ w_B a_I j^_E
-ไหน n_B a_I j^_E
-ไอเทม z_B a_I j^_I th_I e_I m^_E
-ไอเท็ม z_B a_I j^_I th_I e_I m^_E
+ไม่ใช่ m_B a_I j^_I ch_I a_E
 <eps> SIL
