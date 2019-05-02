@@ -120,10 +120,6 @@ q_B begin
 q_E end
 q_I internal
 q_S singleton
-qq_B begin
-qq_E end
-qq_I internal
-qq_S singleton
 r_B begin
 r_E end
 r_I internal

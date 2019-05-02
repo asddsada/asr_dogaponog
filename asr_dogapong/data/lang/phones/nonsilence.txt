@@ -110,10 +110,6 @@ q_B
 q_E
 q_I
 q_S
-qq_B
-qq_E
-qq_I
-qq_S
 r_B
 r_E
 r_I

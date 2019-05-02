@@ -1,82 +1,36 @@
 # online2-wav-nnet2-latgen-faster --online=true --do-endpointing=false --config=exp/nnet2_online/conf/online_nnet2_decoding.conf --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.1 --word-symbol-table=exp/nnet2_online/graph/words.txt exp/nnet2_online/final.mdl exp/nnet2_online/graph/HCLG.fst ark:exp/nnet2_online/decode_dev/per_utt/utt2spk.2 "ark,s,cs:wav-copy scp,p:data/dev/split2utt/2/wav.scp ark:- |" "ark:|gzip -c > exp/nnet2_online/decode_dev/lat.2.gz" 
-# Started at Thu May  2 04:23:28 UTC 2019
+# Started at Thu May  2 05:01:11 UTC 2019
 #
 online2-wav-nnet2-latgen-faster --online=true --do-endpointing=false --config=exp/nnet2_online/conf/online_nnet2_decoding.conf --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.1 --word-symbol-table=exp/nnet2_online/graph/words.txt exp/nnet2_online/final.mdl exp/nnet2_online/graph/HCLG.fst ark:exp/nnet2_online/decode_dev/per_utt/utt2spk.2 'ark,s,cs:wav-copy scp,p:data/dev/split2utt/2/wav.scp ark:- |' 'ark:|gzip -c > exp/nnet2_online/decode_dev/lat.2.gz' 
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
 wav-copy scp,p:data/dev/split2utt/2/wav.scp ark:- 
-M5931013521_0016 ข้าง ซ้าย ข้าง ขวา 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0016
-M5931013521_0018 ข้าง ล่าง 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0018
-M5931013521_0019 ข้าง ซ้าย 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0019
-M5931013521_0020 เดิม 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0020
-M5931013521_0024 ทอย ปุ่ม 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0024
-M5931013521_0027 ทอย บน 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0027
-M5931013521_0030 ไป ข้าง ขวา 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0030
-M5931013521_0031 ข้าง เดิม 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0031
-M5931013521_0032 ทอย 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0032
-M5931013521_0033 ทอย 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0033
-M5931013521_0037 ปุ่ม สี่เหลี่ยม 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931013521_0037
-M5931042721_0000 ออก ข้าง เหรียญ 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0000
-M5931042721_0005 ไป ปุ่ม สี่เหลี่ยม 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0005
-M5931042721_0006 ไป ไป ขวา 
+M5931042721_0002 ใช้ สามเหลี่ยม 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0002
+M5931042721_0004 ข้าง ขวา 
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0004
+M5931042721_0006 มา ออก 
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0006
-M5931042721_0007 ไป ข้าง 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0007
-M5931042721_0008 ไป ไป 
+M5931042721_0008 ใช่ บน 
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0008
-M5931042721_0009 ไป ข้าง เดิม 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0009
-M5931042721_0010 ไป ข้าง เดิม 
+M5931042721_0010 เหรียญ บน 
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0010
-M5931042721_0012 เดิม ท่า ธรรมดา 
+M5931042721_0012 ข้าง บน 
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0012
-M5931042721_0013 หน้า หน้า สลับ 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0013
-M5931042721_0014 ใช่ เดิม 
+M5931042721_0014 ใช่ สามเหลี่ยม 
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0014
-M5931042721_0015 หน้า ออก หน้า 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0015
-M5931042721_0016 ข้าง ซ้าย 
+M5931042721_0016 บน 
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0016
-M5931042721_0018 ข้าง ซ้าย เหรียญ รัว 
+LOG (wav-copy[5.5.293~23-f8021]:main():wav-copy.cc:68) Copied 10 wave files
+M5931042721_0018 ข้าง บน 
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0018
-M5931042721_0019 ข้าง บน ไม่ 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0019
-M5931042721_0020 ใช่ เดิม 
+M5931042721_0020 บน สามเหลี่ยม 
 LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0020
-M5931042721_0024 ตอบ รัว 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0024
-M5931042721_0027 ไป ข้าง ขวา 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0027
-M5931042721_0030 ข้าง ซ้าย บน 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0030
-M5931042721_0031 โอ หน้า หน้า เดิม 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0031
-M5931042721_0032 ข้าง บน รัว 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0032
-LOG (wav-copy[5.5.293~23-f8021]:main():wav-copy.cc:68) Copied 33 wave files
-M5931042721_0033 ข้าง บน 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0033
-M5931042721_0037 หน้า โอ รัว 
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:276) Decoded utterance M5931042721_0037
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:36) Timing stats: real-time factor was 1.05717 (note: this cannot be less than one.)
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:38) Average delay was 0.0879953 seconds.
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:42) Percentage of time spent idling was 87.4982
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:44) Longest delay was 0.229466 seconds for utterance 'M5931042721_0005'
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:282) Decoded 33 utterances, 0 with errors.
-LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:284) Overall likelihood per frame was 0.0303726 per frame over 5015 frames.
-# Accounting: time=9 threads=1
-# Ended (code 0) at Thu May  2 04:23:37 UTC 2019, elapsed time 9 seconds
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:36) Timing stats: real-time factor was 1.05178 (note: this cannot be less than one.)
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:38) Average delay was 0.074129 seconds.
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:42) Percentage of time spent idling was 87.3976
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:Print():online-timing.cc:44) Longest delay was 0.158356 seconds for utterance 'M5931042721_0002'
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:282) Decoded 10 utterances, 0 with errors.
+LOG (online2-wav-nnet2-latgen-faster[5.5.293~23-f8021]:main():online2-wav-nnet2-latgen-faster.cc:284) Overall likelihood per frame was 0.0350749 per frame over 1411 frames.
+# Accounting: time=3 threads=1
+# Ended (code 0) at Thu May  2 05:01:14 UTC 2019, elapsed time 3 seconds

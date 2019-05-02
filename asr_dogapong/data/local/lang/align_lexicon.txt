@@ -1,6 +1,5 @@
 <SIL> SIL_S
 <UNK> UNK_S
-กด k_B o_I t^_E
 กลับ kl_B a_I p^_E
 ขวา khw_B aa_E
 ข้าง kh_B aa_I ng^_E
@@ -19,9 +18,7 @@
 สามเหลี่ยม s_B aa_I m^_I l_I ii_I m^_E
 สี่เหลี่ยม s_B ii_I l_I ii_I m^_E
 หนี n_B ii_E
-หน้า n_B aa_E
 ออก z_B @@_I k^_E
-เดิม d_B qq_I m^_E
 เยอะ j_B q_E
 เวทมนต์ w_B ee_I t^_I m_I o_I n^_E
 เหรียญ r_B iia_I n^_E

@@ -1,6 +1,5 @@
 <SIL>	SIL
 <UNK>	UNK
-กด	k o t^
 กลับ	kl a p^
 ขวา	khw aa
 ข้าง	kh aa ng^
@@ -19,9 +18,7 @@
 สามเหลี่ยม	s aa m^ l ii m^
 สี่เหลี่ยม	s ii l ii m^
 หนี	n ii
-หน้า	n aa
 ออก	z @@ k^
-เดิม	d qq m^
 เยอะ	j q
 เวทมนต์	w ee t^ m o n^
 เหรียญ	r iia n^

@@ -28,7 +28,6 @@ oo_B oo_E oo_I oo_S
 p_B p_E p_I p_S
 p^_B p^_E p^_I p^_S
 q_B q_E q_I q_S
-qq_B qq_E qq_I qq_S
 r_B r_E r_I r_S
 s_B s_E s_I s_S
 t_B t_E t_I t_S

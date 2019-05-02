@@ -1,6 +1,5 @@
 <SIL> 1.0 SIL_S
 <UNK> 1.0 UNK_S
-กด 0.997996 k_B o_I t^_E
 กลับ 0.996578 kl_B a_I p^_E
 ขวา 0.999374 khw_B aa_E
 ข้าง 0.995713 kh_B aa_I ng^_E
@@ -19,9 +18,7 @@
 สามเหลี่ยม 0.998243 s_B aa_I m^_I l_I ii_I m^_E
 สี่เหลี่ยม 0.997548 s_B ii_I l_I ii_I m^_E
 หนี 0.975809 n_B ii_E
-หน้า 0.999518 n_B aa_E
 ออก 0.999099 z_B @@_I k^_E
-เดิม 0.998384 d_B qq_I m^_E
 เยอะ 0.998504 j_B q_E
 เวทมนต์ 0.999132 w_B ee_I t^_I m_I o_I n^_E
 เหรียญ 0.999153 r_B iia_I n^_E

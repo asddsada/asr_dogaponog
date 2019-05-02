@@ -26,7 +26,6 @@ oo
 p
 p^
 q
-qq
 r
 s
 t

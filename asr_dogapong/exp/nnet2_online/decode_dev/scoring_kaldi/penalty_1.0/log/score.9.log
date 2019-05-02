@@ -1,5 +1,5 @@
 # cat exp/nnet2_online/decode_dev/scoring_kaldi/penalty_1.0/9.txt | compute-wer --text --mode=present ark:exp/nnet2_online/decode_dev/scoring_kaldi/test_filt.txt ark,p:- >& exp/nnet2_online/decode_dev/wer_9_1.0 
-# Started at Thu May  2 04:23:50 UTC 2019
+# Started at Thu May  2 05:01:25 UTC 2019
 #
 # Accounting: time=0 threads=1
-# Ended (code 0) at Thu May  2 04:23:50 UTC 2019, elapsed time 0 seconds
+# Ended (code 0) at Thu May  2 05:01:25 UTC 2019, elapsed time 0 seconds

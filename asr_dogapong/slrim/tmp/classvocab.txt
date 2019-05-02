@@ -2,7 +2,6 @@
 </s>
 <s>
 <unk>
-กด
 กลับ
 GO
 ข้าง
@@ -21,9 +20,7 @@ GO
 CLICK
 CLICK
 USE
-หน้า
 BACK
-เดิม
 CLICKO
 USE
 เหรียญ
