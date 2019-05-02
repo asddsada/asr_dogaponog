@@ -26,8 +26,8 @@ ngram -order 7 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
 ngram -order 8 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
 ngram -order 9 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
 ngram -order 10 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
-cp tmp.lm gowajee.arpa
-#cp sl.mclass.lm gowajee.arpa
+#cp tmp.lm gowajee.arpa
+cp sl.mclass.lm gowajee.arpa
 rm gowajee.arpa.gz
 gzip gowajee.arpa
 cp gowajee.arpa.gz ../data/

@@ -1,10 +1,10 @@
-# cat exp/nnet2_online/decode_test/scoring_kaldi/penalty_1.0/16.txt | align-text --special-symbol='***' ark:exp/nnet2_online/decode_test/scoring_kaldi/test_filt.txt ark:- ark,t:- | utils/scoring/wer_per_utt_details.pl --special-symbol '***' | tee exp/nnet2_online/decode_test/scoring_kaldi/wer_details/per_utt | utils/scoring/wer_per_spk_details.pl data/test/utt2spk > exp/nnet2_online/decode_test/scoring_kaldi/wer_details/per_spk 
-# Started at Thu May  2 05:26:29 UTC 2019
+# cat exp/nnet2_online/decode_test/scoring_kaldi/penalty_0.0/9.txt | align-text --special-symbol='***' ark:exp/nnet2_online/decode_test/scoring_kaldi/test_filt.txt ark:- ark,t:- | utils/scoring/wer_per_utt_details.pl --special-symbol '***' | tee exp/nnet2_online/decode_test/scoring_kaldi/wer_details/per_utt | utils/scoring/wer_per_spk_details.pl data/test/utt2spk > exp/nnet2_online/decode_test/scoring_kaldi/wer_details/per_spk 
+# Started at Thu May  2 05:32:38 UTC 2019
 #
-utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
 align-text '--special-symbol=***' ark:exp/nnet2_online/decode_test/scoring_kaldi/test_filt.txt ark:- ark,t:- 
 LOG (align-text[5.5.293~23-f8021]:main():align-text.cc:135) Done 21 sentences, failed for 0
 utils/scoring/wer_per_utt_details.pl: Note: handling as utf-8 text
 utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
+utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
 # Accounting: time=0 threads=1
-# Ended (code 0) at Thu May  2 05:26:29 UTC 2019, elapsed time 0 seconds
+# Ended (code 0) at Thu May  2 05:32:39 UTC 2019, elapsed time 0 seconds
