@@ -1,8 +1,7 @@
 CLICK โอ
 CLICK เอ็ค
-
-NUM สาม
-NUM สี่
+CLICK สี่เหลี่ยม
+CLICK สามเหลี่ยม
 
 GO บน
 GO ล่าง
@@ -14,6 +13,7 @@ CLICKO เยอะ
 
 BACK ไป
 BACK มา
+BACK ออก
 
 ANS ไม่
 ANS ใช่

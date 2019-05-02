@@ -18,11 +18,11 @@ CLICKO
 ลูกเต๋า
 GO
 สลับ
-สามเหลี่ยม
-สี่เหลี่ยม
+CLICK
+CLICK
 USE
 หน้า
-ออก
+BACK
 เดิม
 CLICKO
 USE

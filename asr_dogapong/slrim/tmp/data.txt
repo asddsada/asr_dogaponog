@@ -1,12 +1,12 @@
-กด ปุ่ม สามเหลี่ยม
-กด ปุ่ม สี่เหลี่ยม
+กด ปุ่ม CLICK
+กด ปุ่ม CLICK
 กด ปุ่ม CLICK
 กด ปุ่ม CLICK
 กด CLICK CLICKO CLICKO
 กด CLICK CLICKO CLICKO
 กลับ BACK หน้า เดิม
-กลับ ออก BACK
-กลับ ออก BACK
+กลับ BACK BACK
+กลับ BACK BACK
 กลับ BACK หน้า เดิม
 ตอบ ANS
 ตอบ ANS

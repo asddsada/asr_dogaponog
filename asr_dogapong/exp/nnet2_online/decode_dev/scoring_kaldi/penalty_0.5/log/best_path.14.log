@@ -1,144 +1,144 @@
 # lattice-scale --inv-acoustic-scale=14 "ark:gunzip -c exp/nnet2_online/decode_dev/lat.*.gz|" ark:- | lattice-add-penalty --word-ins-penalty=0.5 ark:- ark:- | lattice-best-path --word-symbol-table=exp/nnet2_online/graph/words.txt ark:- ark,t:- | utils/int2sym.pl -f 2- exp/nnet2_online/graph/words.txt | local/wer_output_filter > exp/nnet2_online/decode_dev/scoring_kaldi/penalty_0.5/14.txt 
-# Started at Thu May  2 03:56:54 UTC 2019
+# Started at Thu May  2 04:23:45 UTC 2019
 #
-lattice-best-path --word-symbol-table=exp/nnet2_online/graph/words.txt ark:- ark,t:- 
-lattice-add-penalty --word-ins-penalty=0.5 ark:- ark:- 
 lattice-scale --inv-acoustic-scale=14 'ark:gunzip -c exp/nnet2_online/decode_dev/lat.*.gz|' ark:- 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0000, best cost 32.5726 + -40.1629 = -7.59023 over 239 frames.
+lattice-add-penalty --word-ins-penalty=0.5 ark:- ark:- 
+lattice-best-path --word-symbol-table=exp/nnet2_online/graph/words.txt ark:- ark,t:- 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0000, best cost 31.6371 + -40.1629 = -8.52578 over 239 frames.
 F5931044021_0000 รัว ท่า หนี เยอะ 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0005, best cost 26.8676 + -15.8898 = 10.9778 over 212 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0005, best cost 26.6079 + -15.8898 = 10.7181 over 212 frames.
 F5931044021_0005 ทอย เวทมนต์ 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0006, best cost 28.0579 + -20.1308 = 7.92704 over 243 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0006, best cost 27.8001 + -20.1308 = 7.66922 over 243 frames.
 F5931044021_0006 ทอย ธรรมดา 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0007, best cost 22.691 + -20.7389 = 1.95219 over 201 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0007, best cost 22.3063 + -20.7389 = 1.56743 over 201 frames.
 F5931044021_0007 รัว รัว 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0008, best cost 20.0713 + -14.8108 = 5.26045 over 212 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0008, best cost 20.0703 + -14.8108 = 5.25947 over 212 frames.
 F5931044021_0008 ตอบ ใช่ 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0009, best cost 19.5264 + -35.4041 = -15.8777 over 276 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0009, best cost 19.5274 + -35.4041 = -15.8767 over 276 frames.
 F5931044021_0009 ทอย ลูกเต๋า 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0010, best cost 18.7388 + -34.9703 = -16.2315 over 246 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0010, best cost 18.3521 + -34.9703 = -16.6182 over 246 frames.
 F5931044021_0010 เวทมนต์ 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0012, best cost 29.1052 + -29.5672 = -0.46203 over 225 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0012, best cost 28.8473 + -29.5672 = -0.719843 over 225 frames.
 F5931044021_0012 ใช้ ท่า รัว 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0013, best cost 23.1162 + -27.1918 = -4.0756 over 197 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0013, best cost 22.4727 + -27.1918 = -4.71916 over 197 frames.
 F5931044021_0013 ท่า รัว 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0014, best cost 21.8505 + -16.7447 = 5.10577 over 192 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0014, best cost 21.0243 + -16.7447 = 4.2796 over 192 frames.
 F5931044021_0014 ท่า ใช่ 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0015, best cost 22.4997 + -29.2407 = -6.74099 over 189 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0015, best cost 22.2409 + -29.2407 = -6.99978 over 189 frames.
 F5931044021_0015 ตอบ บน 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0016, best cost 32.6453 + -35.0801 = -2.43481 over 191 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0016, best cost 31.4305 + -35.0801 = -3.64966 over 191 frames.
 F5931044021_0016 เดิม มา ใช้ ท่า 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0018, best cost 36.0394 + -38.2698 = -2.23045 over 203 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0018, best cost 34.8246 + -38.2698 = -3.44529 over 203 frames.
 F5931044021_0018 เดิม มา ใช้ ท่า 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0019, best cost 35.9338 + -28.2183 = 7.7155 over 183 frames.
-F5931044021_0019 เดิม มา ปุ่ม มา 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0020, best cost 18.1367 + -18.0231 = 0.113607 over 153 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0019, best cost 30.6035 + -23.3932 = 7.21031 over 183 frames.
+F5931044021_0019 เดิม มา ปุ่ม สี่เหลี่ยม 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0020, best cost 18.0595 + -18.0231 = 0.036459 over 153 frames.
 F5931044021_0020 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0024, best cost 17.1333 + -4.92179 = 12.2115 over 126 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0024, best cost 16.7475 + -4.92179 = 11.8257 over 126 frames.
 F5931044021_0024 ท่า ธรรมดา 
 LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0027, best cost 17.5532 + -6.92455 = 10.6286 over 146 frames.
 F5931044021_0027 ตอบ ใช่ 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0030, best cost 32.3253 + -45.3809 = -13.0556 over 300 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0030, best cost 31.923 + -45.3809 = -13.4579 over 300 frames.
 F5931044021_0030 เดิม มา ข้าง ขวา 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0031, best cost 31.3679 + -51.6338 = -20.2659 over 287 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0031, best cost 31.03 + -51.6338 = -20.6038 over 287 frames.
 F5931044021_0031 ใช้ ท่า ข้าง 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0032, best cost 20.4978 + -17.947 = 2.55082 over 216 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0032, best cost 20.4988 + -17.947 = 2.5518 over 216 frames.
 F5931044021_0032 ใช้ ท่า เวทมนต์ 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0033, best cost 20.426 + -27.8378 = -7.41175 over 221 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0033, best cost 20.0373 + -27.8378 = -7.80043 over 221 frames.
 F5931044021_0033 ข้าง บน 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0037, best cost 39.6094 + -35.1897 = 4.41964 over 187 frames.
-F5931044021_0037 รัว มา มา ท่า 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0000, best cost 14.6238 + -8.11316 = 6.51066 over 129 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance F5931044021_0037, best cost 28.7575 + -26.3284 = 2.42909 over 187 frames.
+F5931044021_0037 รัว มา มา 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0000, best cost 14.5447 + -8.11316 = 6.43155 over 129 frames.
 M5931013521_0000 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0005, best cost 17.286 + -8.11275 = 9.17327 over 156 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0005, best cost 17.2089 + -8.11275 = 9.09613 over 156 frames.
 M5931013521_0005 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0006, best cost 21.5622 + -15.7541 = 5.80809 over 168 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0006, best cost 20.5241 + -15.7541 = 4.77001 over 168 frames.
 M5931013521_0006 ปุ่ม สี่เหลี่ยม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0007, best cost 20.8635 + -16.749 = 4.11447 over 144 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0007, best cost 22.2082 + -16.749 = 5.4592 over 144 frames.
 M5931013521_0007 ออก ไป 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0008, best cost 15.3046 + -11.7833 = 3.52126 over 135 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0008, best cost 15.2274 + -11.7833 = 3.4441 over 135 frames.
 M5931013521_0008 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0009, best cost 22.2686 + -18.9042 = 3.3644 over 180 frames.
-M5931013521_0009 ไป ข้าง 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0010, best cost 17.6845 + -17.3454 = 0.339054 over 158 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0009, best cost 19.5027 + -15.9503 = 3.55247 over 180 frames.
+M5931013521_0009 เวทมนต์ 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0010, best cost 17.2977 + -17.3454 = -0.0476646 over 158 frames.
 M5931013521_0010 เวทมนต์ 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0012, best cost 24.6931 + -28.9799 = -4.28684 over 156 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0012, best cost 24.7243 + -28.9799 = -4.25559 over 156 frames.
 M5931013521_0012 ไป ข้าง รัว 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0013, best cost 19.9792 + -17.9185 = 2.06066 over 126 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0013, best cost 20.2692 + -17.9185 = 2.3507 over 126 frames.
 M5931013521_0013 ไป ข้าง ล่าง 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0014, best cost 22.2543 + -28.1317 = -5.8774 over 165 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0014, best cost 21.8119 + -28.1317 = -6.31979 over 165 frames.
 M5931013521_0014 ทอย เดิม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0015, best cost 19.0277 + -21.2401 = -2.21245 over 149 frames.
-M5931013521_0015 ไป ข้าง ขวา 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0016, best cost 17.5307 + -16.7494 = 0.781328 over 152 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0015, best cost 21.7338 + -23.9761 = -2.24224 over 149 frames.
+M5931013521_0015 ไป ขวา 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0016, best cost 17.4536 + -16.7494 = 0.70418 over 152 frames.
 M5931013521_0016 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0018, best cost 15.452 + -12.1642 = 3.28776 over 131 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0018, best cost 15.3748 + -12.1642 = 3.21061 over 131 frames.
 M5931013521_0018 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0019, best cost 15.9068 + -14.024 = 1.8828 over 138 frames.
-M5931013521_0019 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0020, best cost 15.331 + -19.1819 = -3.85096 over 116 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0019, best cost 18.2965 + -16.5853 = 1.71114 over 138 frames.
+M5931013521_0019 ข้าง ซ้าย 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0020, best cost 14.7626 + -19.1819 = -4.41931 over 116 frames.
 M5931013521_0020 เดิม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0024, best cost 21.133 + -25.9155 = -4.78247 over 132 frames.
-M5931013521_0024 ทอย ปุ่ม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0027, best cost 15.7068 + -16.6899 = -0.983072 over 134 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0024, best cost 19.3543 + -23.8451 = -4.49079 over 132 frames.
+M5931013521_0024 ทอย เดิม 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0027, best cost 15.6297 + -16.6899 = -1.06022 over 134 frames.
 M5931013521_0027 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0030, best cost 21.6016 + -23.46 = -1.8584 over 153 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0030, best cost 21.8936 + -23.46 = -1.56641 over 153 frames.
 M5931013521_0030 ไป ข้าง ขวา 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0031, best cost 19.0226 + -14.4409 = 4.5817 over 153 frames.
-M5931013521_0031 ข้าง 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0032, best cost 18.7342 + -11.4033 = 7.33084 over 129 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0031, best cost 21.4166 + -17.3139 = 4.10266 over 153 frames.
+M5931013521_0031 ข้าง เดิม 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0032, best cost 18.656 + -11.4033 = 7.25272 over 129 frames.
 M5931013521_0032 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0033, best cost 18.5008 + -25.7985 = -7.29763 over 144 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0033, best cost 18.4227 + -25.7985 = -7.37576 over 144 frames.
 M5931013521_0033 ทอย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0037, best cost 23.0579 + -23.9936 = -0.935776 over 146 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931013521_0037, best cost 22.0207 + -23.9936 = -1.97289 over 146 frames.
 M5931013521_0037 ปุ่ม สี่เหลี่ยม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0000, best cost 21.4536 + 16.6605 = 38.1141 over 169 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0000, best cost 19.9907 + 16.6605 = 36.6512 over 169 frames.
 M5931042721_0000 ออก เหรียญ 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0005, best cost 16.8285 + 0.65426 = 17.4828 over 150 frames.
-M5931042721_0005 ไป ข้าง ล่าง 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0006, best cost 20.3863 + -5.05957 = 15.3268 over 149 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0005, best cost 23.4811 + -5.80403 = 17.6771 over 150 frames.
+M5931042721_0005 ไป ปุ่ม สี่เหลี่ยม 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0006, best cost 20.2389 + -5.05957 = 15.1793 over 149 frames.
 M5931042721_0006 ไป ขวา 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0007, best cost 16.3232 + -14.434 = 1.8892 over 145 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0007, best cost 16.5351 + -14.434 = 2.10112 over 145 frames.
 M5931042721_0007 ไป ข้าง 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0008, best cost 12.6798 + -5.17074 = 7.5091 over 132 frames.
-M5931042721_0008 ไป 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0009, best cost 21.4389 + -17.2486 = 4.19027 over 163 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0008, best cost 17.5662 + -11.1025 = 6.46367 over 132 frames.
+M5931042721_0008 ไป ไป 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0009, best cost 21.2855 + -17.2486 = 4.03695 over 163 frames.
 M5931042721_0009 ไป ข้าง เดิม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0010, best cost 22.3636 + -18.1697 = 4.19395 over 184 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0010, best cost 22.2103 + -18.1697 = 4.04063 over 184 frames.
 M5931042721_0010 ไป ข้าง เดิม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0012, best cost 25.3888 + -17.4644 = 7.92431 over 144 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0012, best cost 24.5528 + -17.4644 = 7.08838 over 144 frames.
 M5931042721_0012 เดิม ท่า ธรรมดา 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0013, best cost 21.7843 + -21.4243 = 0.359945 over 193 frames.
-M5931042721_0013 มา หน้า เดิม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0014, best cost 14.1495 + -8.56432 = 5.58516 over 156 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0013, best cost 24.5437 + -25.1478 = -0.604185 over 193 frames.
+M5931042721_0013 หน้า หน้า เดิม 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0014, best cost 13.5811 + -8.56432 = 5.01681 over 156 frames.
 M5931042721_0014 เดิม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0015, best cost 24.5084 + -26.8752 = -2.36686 over 165 frames.
-M5931042721_0015 ตอบ ใช่ หน้า 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0016, best cost 18.9071 + -19.2789 = -0.371777 over 192 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0015, best cost 26.2945 + -32.0359 = -5.7413 over 165 frames.
+M5931042721_0015 หน้า ออก หน้า 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0016, best cost 18.5194 + -19.2789 = -0.759474 over 192 frames.
 M5931042721_0016 ข้าง ซ้าย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0018, best cost 20.6077 + -13.884 = 6.72367 over 174 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0018, best cost 20.2209 + -13.884 = 6.33695 over 174 frames.
 M5931042721_0018 ข้าง ซ้าย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0019, best cost 19.2965 + -17.1635 = 2.13302 over 166 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0019, best cost 18.9088 + -17.1635 = 1.74533 over 166 frames.
 M5931042721_0019 ข้าง ซ้าย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0020, best cost 19.0919 + -9.14061 = 9.95124 over 129 frames.
-M5931042721_0020 ไป หน้า เดิม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0024, best cost 15.4308 + -15.0639 = 0.366979 over 143 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0020, best cost 20.2453 + -11.0557 = 9.18958 over 129 frames.
+M5931042721_0020 ใช่ เดิม 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0024, best cost 15.4328 + -15.0639 = 0.368932 over 143 frames.
 M5931042721_0024 สลับ เหรียญ 
 LOG (lattice-scale[5.5.293~23-f8021]:main():lattice-scale.cc:107) Done 66 lattices.
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0027, best cost 17.1639 + -15.4577 = 1.70626 over 165 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0027, best cost 17.455 + -15.4577 = 1.99727 over 165 frames.
 M5931042721_0027 ไป ข้าง ขวา 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0030, best cost 18.4332 + -25.6655 = -7.23229 over 164 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0030, best cost 18.0455 + -25.6655 = -7.61999 over 164 frames.
 M5931042721_0030 ข้าง ซ้าย 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0031, best cost 17.4487 + -15.3617 = 2.08697 over 179 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0031, best cost 17.0619 + -15.3617 = 1.70025 over 179 frames.
 M5931042721_0031 ข้าง ขวา 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0032, best cost 19.5952 + -12.9063 = 6.68893 over 141 frames.
-M5931042721_0032 มา หน้า เดิม 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0033, best cost 17.2528 + -18.5627 = -1.30989 over 142 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0032, best cost 23.8126 + -17.4057 = 6.40687 over 141 frames.
+M5931042721_0032 ข้าง บน รัว 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0033, best cost 16.8642 + -18.5627 = -1.69856 over 142 frames.
 M5931042721_0033 ข้าง บน 
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0037, best cost 23.7796 + -17.6517 = 6.12797 over 142 frames.
-M5931042721_0037 หน้า ออก มา 
 LOG (lattice-add-penalty[5.5.293~23-f8021]:main():lattice-add-penalty.cc:62) Done adding word insertion penalty to 66 lattices.
-LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:124) Overall cost per frame is 0.0106161 = 0.124369 [graph] + -0.113753 [acoustic] over 11326 frames.
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:99) For utterance M5931042721_0037, best cost 25.204 + -18.9521 = 6.25197 over 142 frames.
+M5931042721_0037 หน้า โอ รัว 
+LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:124) Overall cost per frame is 0.00846926 = 0.123851 [graph] + -0.115382 [acoustic] over 11326 frames.
 LOG (lattice-best-path[5.5.293~23-f8021]:main():lattice-best-path.cc:128) Done 66 lattices, failed for 0
 # Accounting: time=0 threads=1
-# Ended (code 0) at Thu May  2 03:56:54 UTC 2019, elapsed time 0 seconds
+# Ended (code 0) at Thu May  2 04:23:45 UTC 2019, elapsed time 0 seconds

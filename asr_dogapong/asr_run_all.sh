@@ -1,7 +1,7 @@
 cd slrim/
 echo -e '\n******* prepare arpa*******************************\n'
-cut -f 2- -d ' ' ../data/train/text | sort -u > sl.train
-cut -f 2- -d ' ' ../data/dev/text | sort -u > sl.dev
+cut -f 2- -d ' '  --output-delimiter ' ' ../data/train/text | sort -u > sl.train
+cut -f 2- -d ' '  --output-delimiter ' ' ../data/dev/text | sort -u > sl.dev
 ngram-count -write-vocab sl.vocab -text sl.train
 sed -n '5,$p' sl.vocab | sort -u > gowajee.vocab
 cp gowajee.vocab ../data/gowajee.vocab
@@ -14,7 +14,7 @@ echo -e '\n******* train  arpa*******************************\n'
 #ngram-count -vocab sl.vocab -text sl.train -order 10 -wbdiscount -lm sl.lm
 #ngram -order 10 -lm sl.lm -classes sl.manual.classes -expand-classes 10 -expand-exact 10 -write-lm sl.mclass.lm
 
-./build_class_ngram  sl.manual.classes sl.train 10 sl.vocab sl.mclass.lm
+./build_class_ngram  sl.manual.classes sl.train 3 sl.vocab sl.mclass.lm
 ngram -order 0 -lm sl.mclass.lm -ppl sl.dev
 ngram -order 1 -lm sl.mclass.lm -ppl sl.dev
 ngram -order 2 -lm sl.mclass.lm -ppl sl.dev
