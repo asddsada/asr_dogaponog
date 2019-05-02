@@ -1,7 +1,7 @@
 <SIL>	SIL
 <UNK>	UNK
-กด	k o t^
 กลับ	kl a p^
+กากบาท	k aa k a p aa th^
 ขวา	khw aa
 ข้าง	kh aa ng^
 ซ้าย	s aa j^
@@ -15,19 +15,16 @@
 รัว	r uua
 ลูกเต๋า	l uu k^ t aa w^
 ล่าง	l aa ng^
+วงกลม	w o ng^ kl o m^
 สลับ	s a l a p^
 สามเหลี่ยม	s aa m^ l ii m^
 สี่เหลี่ยม	s ii l ii m^
 หนี	n ii
-หน้า	n aa
 ออก	z @@ k^
-เดิม	d qq m^
 เยอะ	j q
 เวทมนต์	w ee t^ m o n^
 เหรียญ	r iia n^
-เอ็ค	z ee k^
 โกวาจี	k oo w aa c ii
-โอ	z oo
 ใช่	ch a j^
 ใช้	ch aa j^
 ไป	p a j^

@@ -130,6 +130,10 @@ th_B
 th_E
 th_I
 th_S
+th^_B
+th^_E
+th^_I
+th^_S
 u_B
 u_E
 u_I

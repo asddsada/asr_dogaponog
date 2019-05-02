@@ -1,1 +1,1 @@
-%WER 90.57 [ 48 / 53, 2 ins, 17 del, 29 sub ] exp/nnet2_online/decode_dev/wer_12_0.0
+%WER 88.68 [ 47 / 53, 2 ins, 17 del, 28 sub ] exp/nnet2_online/decode_dev/wer_14_0.0

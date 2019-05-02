@@ -140,6 +140,10 @@ th_B begin
 th_E end
 th_I internal
 th_S singleton
+th^_B begin
+th^_E end
+th^_I internal
+th^_S singleton
 u_B begin
 u_E end
 u_I internal

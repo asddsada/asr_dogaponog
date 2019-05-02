@@ -1,1 +1,1 @@
-%WER 98.11 [ 52 / 53, 5 ins, 13 del, 34 sub ] exp/nnet2_online/decode_test/wer_9_0.0
+%WER 98.11 [ 52 / 53, 1 ins, 20 del, 31 sub ] exp/nnet2_online/decode_test/wer_9_1.0

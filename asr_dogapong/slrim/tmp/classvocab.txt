@@ -3,6 +3,7 @@
 <s>
 <unk>
 กลับ
+CLICK
 GO
 ข้าง
 GO
@@ -16,6 +17,7 @@ BACK
 CLICKO
 ลูกเต๋า
 GO
+วงกลม
 สลับ
 CLICK
 CLICK
@@ -24,9 +26,7 @@ BACK
 CLICKO
 USE
 เหรียญ
-CLICK
 โกวาจี
-โอ
 ANS
 ใช้
 BACK

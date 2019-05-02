@@ -4,13 +4,13 @@
 ตอบ ANS
 ทอย ลูกเต๋า
 ปุ่ม CLICK
+ปุ่ม วงกลม
 ปุ่ม CLICK
 ปุ่ม CLICK
-ปุ่ม โอ
+วงกลม CLICKO CLICKO
+วงกลม CLICKO CLICKO
 สลับ เหรียญ
 โกวาจี
-โอ CLICKO CLICKO
-โอ CLICKO CLICKO
 ใช้ ท่า USE
 ใช้ ท่า USE
 ใช้ ท่า USE

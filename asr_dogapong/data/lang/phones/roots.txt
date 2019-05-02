@@ -33,6 +33,7 @@ shared split s_B s_E s_I s_S
 shared split t_B t_E t_I t_S
 shared split t^_B t^_E t^_I t^_S
 shared split th_B th_E th_I th_S
+shared split th^_B th^_E th^_I th^_S
 shared split u_B u_E u_I u_S
 shared split uu_B uu_E uu_I uu_S
 shared split uua_B uua_E uua_I uua_S
