@@ -1,18 +1,14 @@
 RANDOM ปุ่มกด
-RANDOM ใช้ท่า
 RANDOM ทางไป
 RANDOM เลือก
 RANDOM ชื่อ
+RANDOM ใช้ท่า
 
 CLICK โอ
 CLICK เอ็ค
-CLICK สี่เหลี่ยม
-CLICK สามเหลี่ยม
 
-ARROW ขึ้น
-ARROW ลง
-ARROW ซ้าย
-ARROW ขวา
+NUM สาม
+NUM สี่
 
 GO บน
 GO ล่าง
@@ -20,25 +16,18 @@ GO ซ้าย
 GO ขวา
 
 CLICKO รัว
-CLICKO หลาย
 CLICKO เยอะ
 
 BACK ไป
 BACK มา
-ฺBACK ออก
 
-ANS ใช่
-ANS ถูกต้อง
-ANS ตกลง
-ANS เยส
 ANS ไม่
-ANS ไม่ใช่
-ANS โน
+ANS ใช่
 
 USE เวทมนต์
 USE ธรรมดา
 USE พิเศษ
 USE หนี
 
-SNAP ใกล้
+SNAP ใกล้สุด
 SNAP ปุ

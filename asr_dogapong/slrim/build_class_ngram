@@ -12,7 +12,6 @@
 #  tmp.data    - Training corpus with class labels
 #  tmp.vocab   - Vocabulary with class labels
 #  tmp.lm      - Class label n-gram model
-mkdir tmp
 replace-words-with-classes classes=$1 outfile=tmp.classes addone=2 $2 > tmp/data.txt
 replace-words-with-classes classes=$1 $4 > tmp/classvocab.txt
 awk '{print $1}' $1 | cat tmp/classvocab.txt - | sort -u > tmp.vocab

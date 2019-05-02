@@ -1,57 +1,45 @@
 <SIL> SIL_S
 <UNK> UNK_S
-กดปุ่ม k_B d_I p_I u_I m^_E
-กดโอ k_B d_I z_I oo_E
+กด k_B o_I t^_E
 กลับ kl_B a_I p^_E
 ขวา khw_B aa_E
-ขึ้น kh_B v_I n^_E
 ข้าง kh_B aa_I ng^_E
-ชื่อ ch_B vv_E
+ชื่อ ch_B uu_E
 ซ้าย s_B aa_I j^_E
-ตกลง t_B kl_I ng^_E
 ตอบ t_B @@_I p^_E
-ถูกต้อง th_B uu_I k^_I t_I @@_I ng^_E
 ทอย th_B @@_I j^_E
 ทางไป th_B aa_I ng^_I p_I a_I j^_E
-ธรรมดา th_B m^_I m_I a_I d_I aa_E
+ท่า th_B aa_E
+ธรรมดา th_B a_I m^_I m_I a_I d_I aa_E
 บน b_B o_I n^_E
-บวก b_B uua_I k^_E
 ปุ p_B u_E
+ปุ่ม p_B u_I m^_E
 ปุ่มกด p_B u_I m^_I k_I o_I t^_E
-พิเศษ ph_B i_I s_I ee_I t^_E
-มัน m_B a_I n^_E
 มา m_B aa_E
-รอบ r_B @@_I p^_E
 รัว r_B uua_E
-ลง l_B o_I ng^_E
 ลูกเต๋า l_B uu_I k^_I t_I aa_I w^_E
-ล่าง l_B e_I aa_I ng^_E
+ล่าง l_B aa_I ng^_E
 สลับ s_B a_I l_I a_I p^_E
-สามเหลี่ยม s_B aa_I m^_I l_I ii_I m^_E
-สี่เหลี่ยม s_B ii_I l_I ii_I m^_E
-สุด s_B u_I t^_E
+สาม s_B aa_I m^_E
+สี่ s_B ii_E
 สุ่ม s_B u_I m^_E
-สแนป s_B n_I j^_E
+สแนป s_B a_I n_I a_I p^_E
 หนี n_B ii_E
 หน้า n_B aa_E
-หลาย l_B aa_I j^_E
 ออก z_B @@_I k^_E
 เดิม d_B qq_I m^_E
-เยส j_B s^_E
 เยอะ j_B q_E
-เลย l_B qq_I j^_E
-เลือก l_B vva_I k^_E
+เลือก l_B uua_I k^_E
 เวทมนต์ w_B ee_I t^_I m_I o_I n^_E
 เหรียญ r_B iia_I n^_E
-เอ็ค z_B ee_I e_I kh_E
-โกวาจี z_B k_I aa_I c_I ii_E
-โน z_B n^_E
-โยน z_B n^_E
+เหลี่ยม l_B ii_I m^_E
+เอ็ค z_B ee_I k^_E
+โกวาจี k_B oo_I w_I aa_I c_I ii_E
 โอ z_B oo_E
-ใกล้ kl_B a_I j^_E
-ใช่ ch_B a_E
-ใช้ท่า ch_B a_I j^_I th_I a_I w^_E
+ใกล้สุด kl_B a_I j^_I s_I u_I t^_E
+ใช่ ch_B a_I j^_E
+ใช้ ch_B a_I j^_E
+ใช้ท่า ch_B a_I j^_I th_I aa_E
 ไป p_B a_I j^_E
 ไม่ m_B a_I j^_E
-ไม่ใช่ m_B a_I j^_I ch_I a_E
 <eps> SIL

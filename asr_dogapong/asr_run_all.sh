@@ -26,8 +26,9 @@ ngram -order 7 -lm sl.mclass.lm -ppl sl.dev
 ngram -order 8 -lm sl.mclass.lm -ppl sl.dev
 ngram -order 9 -lm sl.mclass.lm -ppl sl.dev
 ngram -order 10 -lm sl.mclass.lm -ppl sl.dev
-cp tmp.lm gowajee.arpa
-#cp sl.mclass.lm gowajee.arpa
+#cp tmp.lm gowajee.arpa
+cp sl.mclass.lm gowajee.arpa
+rm gowajee.arpa.gz
 gzip gowajee.arpa
 cp gowajee.arpa.gz ../data/
 
@@ -47,18 +48,18 @@ cp lexiconp.txt ../data/local/dict/lexiconp.txt
 
 cd ..
 echo -e '\n******* prepare_lang *******************************\n'
-utils/prepare_lang.sh data/local/dict "<UNK>" data/local/lang data/lang
+./utils/prepare_lang.sh data/local/dict "<UNK>" data/local/lang data/lang
 
 echo -e '\n******* format_lm *******************************\n'
 ./utils/format_lm.sh data/lang data/gowajee.arpa.gz data/local/dict/lexicon.txt data/lang
-utils/prepare_lang.sh data/local/dict "<UNK>" data/local/lang data/lang
+./utils/prepare_lang.sh data/local/dict "<UNK>" data/local/lang data/lang
 
 echo -e '\n*******  HCLG  *******************************\n'
-utils/mkgraph.sh data/lang exp/nnet2_online exp/nnet2_online/graph
+./utils/mkgraph.sh data/lang exp/nnet2_online exp/nnet2_online/graph
 
 echo -e '\n*******  decodde  *******************************\n'
 rm -rf exp/nnet2_online/decode_dev
-steps/online/nnet2/decode.sh --config conf/decode.config --cmd utils/run.pl \
+./steps/online/nnet2/decode.sh --config conf/decode.config --cmd utils/run.pl \
   --nj 2 --per-utt true --online true exp/nnet2_online/graph \
   data/dev exp/nnet2_online/decode_dev
 grep WER exp/nnet2_online/decode_dev/wer_*

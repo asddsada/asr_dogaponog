@@ -1,28 +1,16 @@
-กดปุ่ม GO
-กดปุ่ม ARROW
-กดปุ่ม GO
-กดปุ่ม ARROW
-กดปุ่ม CLICK
-กดปุ่ม CLICK
-กดปุ่ม CLICK
-กดปุ่ม CLICK
-กดโอ CLICKO CLICKO
-กดโอ CLICKO CLICKO รอบ
-กดโอ CLICKO CLICKO
+กด ปุ่ม NUM เหลี่ยม
+กด ปุ่ม NUM เหลี่ยม
+กด ปุ่ม CLICK
+กด ปุ่ม CLICK
+กด CLICK CLICKO CLICKO
+กด CLICK CLICKO CLICKO
 กลับ BACK หน้า เดิม
-กลับ ฺBACK BACK
-กลับ ฺBACK BACK
+กลับ ออก BACK
+กลับ ออก BACK
 กลับ BACK หน้า เดิม
-ตอบ ANS
-ตอบ ANS ANS
-ตอบ ANS
-ตอบ ANS
-ตอบ ANS
 ตอบ ANS
 ตอบ ANS
 ทอย ลูกเต๋า
-บวก มัน เลย
-บวก เลย
 สลับ เหรียญ
 สุ่ม RANDOM
 สุ่ม RANDOM
@@ -30,13 +18,12 @@
 สุ่ม RANDOM
 สุ่ม RANDOM
 สแนป SNAP
-สแนป SNAP สุด
+สแนป SNAP
 โกวาจี
-โยน ลูกเต๋า
-RANDOM USE
-RANDOM USE
-RANDOM USE
-RANDOM USE
+ใช้ ท่า USE
+ใช้ ท่า USE
+ใช้ ท่า USE
+ใช้ ท่า USE
 BACK ข้าง GO
 BACK ข้าง GO
 BACK ข้าง GO

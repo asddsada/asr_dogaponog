@@ -1,56 +1,44 @@
 <SIL>	SIL
 <UNK>	UNK
-กดปุ่ม	k d p u m^
-กดโอ	k d z oo
+กด	k o t^
 กลับ	kl a p^
 ขวา	khw aa
-ขึ้น	kh v n^
 ข้าง	kh aa ng^
-ชื่อ	ch vv
+ชื่อ	ch uu
 ซ้าย	s aa j^
-ตกลง	t kl ng^
 ตอบ	t @@ p^
-ถูกต้อง	th uu k^ t @@ ng^
 ทอย	th @@ j^
 ทางไป	th aa ng^ p a j^
-ธรรมดา	th m^ m a d aa
+ท่า	th aa
+ธรรมดา	th a m^ m a d aa
 บน	b o n^
-บวก	b uua k^
 ปุ	p u
+ปุ่ม	p u m^
 ปุ่มกด	p u m^ k o t^
-พิเศษ	ph i s ee t^
-มัน	m a n^
 มา	m aa
-รอบ	r @@ p^
 รัว	r uua
-ลง	l o ng^
 ลูกเต๋า	l uu k^ t aa w^
-ล่าง	l e aa ng^
+ล่าง	l aa ng^
 สลับ	s a l a p^
-สามเหลี่ยม	s aa m^ l ii m^
-สี่เหลี่ยม	s ii l ii m^
-สุด	s u t^
+สาม	s aa m^
+สี่	s ii
 สุ่ม	s u m^
-สแนป	s n j^
+สแนป	s a n a p^
 หนี	n ii
 หน้า	n aa
-หลาย	l aa j^
 ออก	z @@ k^
 เดิม	d qq m^
-เยส	j s^
 เยอะ	j q
-เลย	l qq j^
-เลือก	l vva k^
+เลือก	l uua k^
 เวทมนต์	w ee t^ m o n^
 เหรียญ	r iia n^
-เอ็ค	z ee e kh
-โกวาจี	z k aa c ii
-โน	z n^
-โยน	z n^
+เหลี่ยม	l ii m^
+เอ็ค	z ee k^
+โกวาจี	k oo w aa c ii
 โอ	z oo
-ใกล้	kl a j^
-ใช่	ch a
-ใช้ท่า	ch a j^ th a w^
+ใกล้สุด	kl a j^ s u t^
+ใช่	ch a j^
+ใช้	ch a j^
+ใช้ท่า	ch a j^ th aa
 ไป	p a j^
 ไม่	m a j^
-ไม่ใช่	m a j^ ch a
