@@ -26,7 +26,7 @@ USE
 เหรียญ
 CLICK
 โกวาจี
-CLICK
+โอ
 ANS
 ใช้
 BACK

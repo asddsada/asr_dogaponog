@@ -8,6 +8,7 @@ deletion              โอ           ***    2
 deletion             ตอบ           ***    2
 deletion            กลับ           ***    2
 deletion            ปุ่ม           ***    2
+deletion             ทอย           ***    1
 deletion             ท่า           ***    1
 deletion             รัว           ***    1
 deletion             ออก           ***    1
@@ -24,7 +25,6 @@ substitution          โอ           ทอย    1
 substitution          ไป           ใช้    1
 substitution          ไป        เหรียญ    1
 substitution         ขวา           ท่า    1
-substitution         ทอย        เหรียญ    1
 substitution         รัว           ตอบ    1
 substitution         หนี          ปุ่ม    1
 substitution         ออก          สลับ    1
@@ -38,7 +38,7 @@ substitution        ล่าง           ท่า    1
 substitution        เยอะ        เหรียญ    1
 substitution      โกวาจี        เหรียญ    1
 substitution      ไม้ตาย        เหรียญ    1
-substitution     ลูกเต๋า           ทอย    1
+substitution     ลูกเต๋า          สลับ    1
 substitution     เวทมนต์       ลูกเต๋า    1
 substitution  สามเหลี่ยม          สลับ    1
 substitution  สี่เหลี่ยม       ลูกเต๋า    1

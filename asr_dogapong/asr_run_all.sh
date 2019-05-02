@@ -15,17 +15,17 @@ echo -e '\n******* train  arpa*******************************\n'
 #ngram -order 10 -lm sl.lm -classes sl.manual.classes -expand-classes 10 -expand-exact 10 -write-lm sl.mclass.lm
 
 ./build_class_ngram  sl.manual.classes sl.train 3 sl.vocab sl.mclass.lm
-ngram -order 0 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 1 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 2 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 3 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 4 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 5 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 6 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 7 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 8 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 9 -lm sl.mclass.lm -ppl sl.dev
-ngram -order 10 -lm sl.mclass.lm -ppl sl.dev
+ngram -order 0 -lm sl.mclass.lm -ppl sl.dev > ppl.txt
+ngram -order 1 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
+ngram -order 2 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
+ngram -order 3 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
+ngram -order 4 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
+ngram -order 5 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
+ngram -order 6 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
+ngram -order 7 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
+ngram -order 8 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
+ngram -order 9 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
+ngram -order 10 -lm sl.mclass.lm -ppl sl.dev >> ppl.txt
 cp tmp.lm gowajee.arpa
 #cp sl.mclass.lm gowajee.arpa
 rm gowajee.arpa.gz
@@ -62,5 +62,12 @@ rm -rf exp/nnet2_online/decode_dev
 ./steps/online/nnet2/decode.sh --config conf/decode.config --cmd utils/run.pl \
   --nj 2 --per-utt true --online true exp/nnet2_online/graph \
   data/dev exp/nnet2_online/decode_dev
-grep WER exp/nnet2_online/decode_dev/wer_*
+#grep WER exp/nnet2_online/decode_dev/wer_*
 cat exp/nnet2_online/decode_dev/scoring_kaldi/best_wer
+
+rm -rf exp/nnet2_online/decode_test
+./steps/online/nnet2/decode.sh --config conf/decode.config --cmd utils/run.pl \
+  --nj 2 --per-utt true --online true exp/nnet2_online/graph \
+  data/test exp/nnet2_online/decode_test
+#grep WER exp/nnet2_online/decode_test/wer_*
+cat exp/nnet2_online/decode_test/scoring_kaldi/best_wer
