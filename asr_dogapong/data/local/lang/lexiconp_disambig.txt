@@ -1,44 +1,35 @@
 <SIL>	1.0	SIL_S
 <UNK>	1.0	UNK_S
-กด	0.892057	k_B o_I t^_E
-กลับ	0.999619	kl_B a_I p^_E
-ขวา	0.999465	khw_B aa_E
-ข้าง	0.999855	kh_B aa_I ng^_E
-ชื่อ	0.999730	ch_B uu_E
-ซ้าย	0.999812	s_B aa_I j^_E
-ตอบ	0.999930	t_B @@_I p^_E
-ทอย	0.999864	th_B @@_I j^_E
-ทางไป	0.970962	th_B aa_I ng^_I p_I a_I j^_E
-ท่า	0.556329	th_B aa_E
-ธรรมดา	0.999550	th_B a_I m^_I m_I a_I d_I aa_E
-บน	0.998823	b_B o_I n^_E
-ปุ	0.999959	p_B u_E
-ปุ่ม	0.999981	p_B u_I m^_E
-ปุ่มกด	0.999664	p_B u_I m^_I k_I o_I t^_E
-มา	0.981943	m_B aa_E
-รัว	0.999972	r_B uua_E
-ลูกเต๋า	0.999797	l_B uu_I k^_I t_I aa_I w^_E
-ล่าง	0.999909	l_B aa_I ng^_E
-สลับ	0.998989	s_B a_I l_I a_I p^_E
-สาม	0.999970	s_B aa_I m^_E
-สี่	0.995949	s_B ii_E
-สุ่ม	0.999917	s_B u_I m^_E
-สแนป	0.895012	s_B a_I n_I a_I p^_E
-หนี	0.999940	n_B ii_E
-หน้า	0.999787	n_B aa_E
-ออก	0.999853	z_B @@_I k^_E
-เดิม	0.999844	d_B qq_I m^_E
-เยอะ	0.999829	j_B q_E
-เลือก	0.999746	l_B uua_I k^_E
-เวทมนต์	0.999882	w_B ee_I t^_I m_I o_I n^_E
-เหรียญ	0.999891	r_B iia_I n^_E
-เหลี่ยม	0.999943	l_B ii_I m^_E
-เอ็ค	0.999882	z_B ee_I k^_E
-โกวาจี	0.999746	k_B oo_I w_I aa_I c_I ii_E
-โอ	0.999544	z_B oo_E
-ใกล้สุด	0.999901	kl_B a_I j^_I s_I u_I t^_E
-ใช่	0.999954	ch_B a_I j^_E #1
-ใช้	0.999941	ch_B a_I j^_E #2
-ใช้ท่า	0.556316	ch_B a_I j^_I th_I aa_E
-ไป	0.970664	p_B a_I j^_E
-ไม่	0.999932	m_B a_I j^_E
+กด	0.997996	k_B o_I t^_E
+กลับ	0.996578	kl_B a_I p^_E
+ขวา	0.999374	khw_B aa_E
+ข้าง	0.995713	kh_B aa_I ng^_E
+ซ้าย	0.999338	s_B aa_I j^_E
+ตอบ	0.999627	t_B @@_I p^_E
+ทอย	0.999282	th_B @@_I j^_E
+ท่า	0.999352	th_B aa_E
+ธรรมดา	0.997786	th_B a_I m^_I m_I a_I d_I aa_E
+บน	0.999051	b_B o_I n^_E
+ปุ่ม	0.999202	p_B u_I m^_E
+มา	0.994747	m_B aa_E
+รัว	0.999522	r_B uua_E
+ลูกเต๋า	0.984392	l_B uu_I k^_I t_I aa_I w^_E
+ล่าง	0.998288	l_B aa_I ng^_E
+สลับ	0.992341	s_B a_I l_I a_I p^_E
+สามเหลี่ยม	0.998243	s_B aa_I m^_I l_I ii_I m^_E
+สี่เหลี่ยม	0.997548	s_B ii_I l_I ii_I m^_E
+หนี	0.975809	n_B ii_E
+หน้า	0.999518	n_B aa_E
+ออก	0.999099	z_B @@_I k^_E
+เดิม	0.998384	d_B qq_I m^_E
+เยอะ	0.998504	j_B q_E
+เวทมนต์	0.999132	w_B ee_I t^_I m_I o_I n^_E
+เหรียญ	0.999153	r_B iia_I n^_E
+เอ็ค	0.999272	z_B ee_I k^_E
+โกวาจี	0.999487	k_B oo_I w_I aa_I c_I ii_E
+โอ	0.998312	z_B oo_E
+ใช่	0.997974	ch_B a_I j^_E
+ใช้	0.998763	ch_B aa_I j^_E
+ไป	0.994725	p_B a_I j^_E
+ไม่	0.997762	m_B a_I j^_E
+ไม้ตาย	0.999150	m_B aa_I j^_I t_I aa_I j^_E

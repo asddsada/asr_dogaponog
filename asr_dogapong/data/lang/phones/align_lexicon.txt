@@ -5,41 +5,32 @@
 กลับ กลับ kl_B a_I p^_E
 ขวา ขวา khw_B aa_E
 ข้าง ข้าง kh_B aa_I ng^_E
-ชื่อ ชื่อ ch_B uu_E
 ซ้าย ซ้าย s_B aa_I j^_E
 ตอบ ตอบ t_B @@_I p^_E
 ทอย ทอย th_B @@_I j^_E
-ทางไป ทางไป th_B aa_I ng^_I p_I a_I j^_E
 ท่า ท่า th_B aa_E
 ธรรมดา ธรรมดา th_B a_I m^_I m_I a_I d_I aa_E
 บน บน b_B o_I n^_E
-ปุ ปุ p_B u_E
 ปุ่ม ปุ่ม p_B u_I m^_E
-ปุ่มกด ปุ่มกด p_B u_I m^_I k_I o_I t^_E
 มา มา m_B aa_E
 รัว รัว r_B uua_E
 ลูกเต๋า ลูกเต๋า l_B uu_I k^_I t_I aa_I w^_E
 ล่าง ล่าง l_B aa_I ng^_E
 สลับ สลับ s_B a_I l_I a_I p^_E
-สาม สาม s_B aa_I m^_E
-สี่ สี่ s_B ii_E
-สุ่ม สุ่ม s_B u_I m^_E
-สแนป สแนป s_B a_I n_I a_I p^_E
+สามเหลี่ยม สามเหลี่ยม s_B aa_I m^_I l_I ii_I m^_E
+สี่เหลี่ยม สี่เหลี่ยม s_B ii_I l_I ii_I m^_E
 หนี หนี n_B ii_E
 หน้า หน้า n_B aa_E
 ออก ออก z_B @@_I k^_E
 เดิม เดิม d_B qq_I m^_E
 เยอะ เยอะ j_B q_E
-เลือก เลือก l_B uua_I k^_E
 เวทมนต์ เวทมนต์ w_B ee_I t^_I m_I o_I n^_E
 เหรียญ เหรียญ r_B iia_I n^_E
-เหลี่ยม เหลี่ยม l_B ii_I m^_E
 เอ็ค เอ็ค z_B ee_I k^_E
 โกวาจี โกวาจี k_B oo_I w_I aa_I c_I ii_E
 โอ โอ z_B oo_E
-ใกล้สุด ใกล้สุด kl_B a_I j^_I s_I u_I t^_E
 ใช่ ใช่ ch_B a_I j^_E
-ใช้ ใช้ ch_B a_I j^_E
-ใช้ท่า ใช้ท่า ch_B a_I j^_I th_I aa_E
+ใช้ ใช้ ch_B aa_I j^_E
 ไป ไป p_B a_I j^_E
 ไม่ ไม่ m_B a_I j^_E
+ไม้ตาย ไม้ตาย m_B aa_I j^_I t_I aa_I j^_E

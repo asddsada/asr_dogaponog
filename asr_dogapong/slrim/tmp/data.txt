@@ -1,5 +1,5 @@
-กด ปุ่ม NUM เหลี่ยม
-กด ปุ่ม NUM เหลี่ยม
+กด ปุ่ม สามเหลี่ยม
+กด ปุ่ม สี่เหลี่ยม
 กด ปุ่ม CLICK
 กด ปุ่ม CLICK
 กด CLICK CLICKO CLICKO
@@ -12,13 +12,6 @@
 ตอบ ANS
 ทอย ลูกเต๋า
 สลับ เหรียญ
-สุ่ม RANDOM
-สุ่ม RANDOM
-สุ่ม RANDOM
-สุ่ม RANDOM
-สุ่ม RANDOM
-สแนป SNAP
-สแนป SNAP
 โกวาจี
 ใช้ ท่า USE
 ใช้ ท่า USE

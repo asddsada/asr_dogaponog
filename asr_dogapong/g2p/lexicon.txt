@@ -4,41 +4,32 @@
 กลับ	kl a p^
 ขวา	khw aa
 ข้าง	kh aa ng^
-ชื่อ	ch uu
 ซ้าย	s aa j^
 ตอบ	t @@ p^
 ทอย	th @@ j^
-ทางไป	th aa ng^ p a j^
 ท่า	th aa
 ธรรมดา	th a m^ m a d aa
 บน	b o n^
-ปุ	p u
 ปุ่ม	p u m^
-ปุ่มกด	p u m^ k o t^
 มา	m aa
 รัว	r uua
 ลูกเต๋า	l uu k^ t aa w^
 ล่าง	l aa ng^
 สลับ	s a l a p^
-สาม	s aa m^
-สี่	s ii
-สุ่ม	s u m^
-สแนป	s a n a p^
+สามเหลี่ยม	s aa m^ l ii m^
+สี่เหลี่ยม	s ii l ii m^
 หนี	n ii
 หน้า	n aa
 ออก	z @@ k^
 เดิม	d qq m^
 เยอะ	j q
-เลือก	l uua k^
 เวทมนต์	w ee t^ m o n^
 เหรียญ	r iia n^
-เหลี่ยม	l ii m^
 เอ็ค	z ee k^
 โกวาจี	k oo w aa c ii
 โอ	z oo
-ใกล้สุด	kl a j^ s u t^
 ใช่	ch a j^
-ใช้	ch a j^
-ใช้ท่า	ch a j^ th aa
+ใช้	ch aa j^
 ไป	p a j^
 ไม่	m a j^
+ไม้ตาย	m aa j^ t aa j^
