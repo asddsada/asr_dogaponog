@@ -1,0 +1,33 @@
+<SIL> <SIL> SIL_S
+<UNK> <UNK> UNK_S
+<eps> <eps> SIL
+กลับ กลับ kl_B a_I p^_E
+กากบาท กากบาท k_B aa_I k_I a_I p_I aa_I th^_E
+ขวา ขวา khw_B aa_E
+ข้าง ข้าง kh_B aa_I ng^_E
+ซ้าย ซ้าย s_B aa_I j^_E
+ตอบ ตอบ t_B @@_I p^_E
+ทอย ทอย th_B @@_I j^_E
+ท่า ท่า th_B aa_E
+ธรรมดา ธรรมดา th_B a_I m^_I m_I a_I d_I aa_E
+บน บน b_B o_I n^_E
+ปุ่ม ปุ่ม p_B u_I m^_E
+มา มา m_B aa_E
+รัว รัว r_B uua_E
+ลูกเต๋า ลูกเต๋า l_B uu_I k^_I t_I aa_I w^_E
+ล่าง ล่าง l_B aa_I ng^_E
+วงกลม วงกลม w_B o_I ng^_I kl_I o_I m^_E
+สลับ สลับ s_B a_I l_I a_I p^_E
+สามเหลี่ยม สามเหลี่ยม s_B aa_I m^_I l_I ii_I m^_E
+สี่เหลี่ยม สี่เหลี่ยม s_B ii_I l_I ii_I m^_E
+หนี หนี n_B ii_E
+ออก ออก z_B @@_I k^_E
+เยอะ เยอะ j_B q_E
+เวทมนต์ เวทมนต์ w_B ee_I t^_I m_I o_I n^_E
+เหรียญ เหรียญ r_B iia_I n^_E
+โกวาจี โกวาจี k_B oo_I w_I aa_I c_I ii_E
+ใช่ ใช่ ch_B a_I j^_E
+ใช้ ใช้ ch_B aa_I j^_E
+ไป ไป p_B a_I j^_E
+ไม่ ไม่ m_B a_I j^_E
+ไม้ตาย ไม้ตาย m_B aa_I j^_I t_I aa_I j^_E

@@ -1,0 +1,5 @@
+XSym
+0021
+6d7139192f38ce539c502e158dfe57fb
+tuning/run_tdnn_1a.sh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

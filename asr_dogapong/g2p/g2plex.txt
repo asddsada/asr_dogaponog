@@ -1,0 +1,156 @@
+กด	k o t^
+กลับ	kl a p^
+กัน	k a n^
+กับ	k a p^
+การ	k aa n^
+ก็	k @@
+ก็อท	k @@ t^
+ก่อน	k @@ n^
+ขวา	khw aa
+ขอ	kh @@
+ของ	kh @@ ng^
+ขอบ	kh @@ p^
+ขึ้น	kh v n^
+ขโมย	kh a m oo j^
+ข้าง	kh aa ng^
+ข้าพเจ้า	kh aa ph c ee aa
+ข้าม	kh aa m^
+คน	kh o n^
+ความ	khw aa m^
+ความเร็ว	khw aa m^ r e w^
+คิวบิด	kh i p^ qq t^
+คุกกี้	kh u k^ k ii
+ค่า	kh aa
+จง	c o ng^
+จะ	c a
+จัด	c a t^
+จาก	c aa k^
+ฉัน	ch a n^
+ชวาล	ch a w aa n^
+ชิ้น	ch i n^
+ชีวิต	ch ii w i t^
+ชื่อ	ch vv
+ช่อง	ch @ ng^
+ซื้อ	s vv
+ซ้าย	s aa j^
+ดราก้อน	dr aa k @@ n^
+ดี	d ii
+ดู	d uu
+ด้าน	d aa n^
+ติวโตเรียล	t i w^ t oo r iia l^
+ตี	t ii
+ทอย	th @@ j^
+ทั้งหมด	th a ng^ m o t^
+ทาง	th aa ng^
+ทำนาย	th a m^ n aa j^
+ทำลาย	th a m^ l aa j^
+ที	th ii
+ที่	th ii
+ธรรมดา	th m^ m a d aa
+นาย	n aa j^
+นี้	n ii
+บน	b o n^
+บลู	bl uu
+บวก	b uua k^
+บอส	b @@ s^
+บี	b ii
+บ้าง	b aa ng^
+ประสงค์	pr a s o ng^
+ป้องกัน	p @ ng^ k a n^
+ผู้เล่น	ph uu l e n^
+พลัง	ph a ng^
+พิเศษ	ph i s ee t^
+ฟ้า	f aa
+ภาษา	ph aa s aa
+มอน	m @@ n^
+มอนเตอร์	m @@ n^ t qq
+มัน	m a n^
+มั่ว	m uua
+มา	m aa
+มิตรภาพ	m i t^ tr a ph aa p^
+มี	m ii
+รอบ	r @@ p^
+รัว	r uua
+ริเวอร์	r i w qq
+ร้าน	r aa n^
+ร้านค้า	r aa n^ kh aa
+ลง	l o ng^
+ลอง	l @@ ng^
+ลาส	l aa s^
+ลูกเต๋า	l uu k^ t aa w^
+ล่าง	l e aa ng^
+สลับ	s a l a p^
+สอง	s @@ ng^
+สะกด	s a k o t^
+สาม	s aa m^
+สุด	s u t^
+สุ่ม	s u m^
+หนึ่ง	n v ng^
+หน่อย	n @ j^
+หน้า	n aa
+หมด	m o t^
+หยุด	j u t^
+หลบหลีก	l o p^ l ii k^
+อยู่	j uu
+ออก	z @@ k^
+อะไร	z a r a j^
+อังกฤษ	z a ng^ kr i t^
+อัพ	z a p^
+อาย	z aa j^
+อาร์	z aa
+อิท	z i t^
+อีก	z ii k^
+เกมส์	k ee m^
+เกลือ	kl vva
+เข้าใจ	kh a w^ c a j^
+เงิน	ng q n^
+เจน	c ee n^
+เดิน	d qq n^
+เดิม	d qq m^
+เถอะ	th q
+เท่านั้น	th a w^ n a n^
+เปลี่ยน	pl iia n^
+เปิด	p qq t^
+เป็น	p e n^
+เผื่อ	ph vva
+เพิ่ม	ph qq m^
+เพื่อน	ph vva n^
+เยอะ	j q
+เลย	l qq j^
+เลือก	l vva k^
+เลือด	l vva t^
+เลื่อน	l vva n^
+เล่น	l e n^
+เวท	w ee t^
+เวทมนตร์	w ee t^ m o n^
+เวทมนต์	w ee t^ m o n^
+เหมือน	m vva n^
+เหรียญ	r iia n^
+เอ	z ee
+เอง	z ee ng^
+เอส	z ee s^
+เอา	z ee aa
+แตะ	t x
+แต่	t xx
+แต้ม	t xx m^
+แบบ	b xx p^
+แมพ	m xx p^
+แย่ง	j xx ng^
+แสดง	s a d xx ng^
+แสตท	s a t t^
+โกวาจี	z k aa c ii
+โจมตี	c oo m^ t ii
+โดกาปอง	d oo k aa p^ @@ ng^
+โปรด	pr oo t^
+โอ	z oo
+ใกล้	kl a j^
+ใช้	ch a j^
+ใน	n a j^
+ให้	h a j^
+ได้	d aa j^
+ไป	p a j^
+ไม่	m a j^
+ไวท์	w a j^
+ไหน	n a j^
+ไอเทม	z a j^ th e m^
+ไอเท็ม	z a j^ th e m^

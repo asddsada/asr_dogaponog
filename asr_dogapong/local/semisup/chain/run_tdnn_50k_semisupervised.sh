@@ -1,0 +1,5 @@
+XSym
+0040
+01f744f3634a7497705408b99638d07e
+tuning/run_tdnn_50k_semisupervised_1a.sh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

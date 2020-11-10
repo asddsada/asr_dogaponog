@@ -1,0 +1,32 @@
+<SIL> 1.0 SIL_S
+<UNK> 1.0 UNK_S
+กลับ 0.995419 kl_B a_I p^_E
+กากบาท 0.998464 k_B aa_I k_I a_I p_I aa_I th^_E
+ขวา 0.999343 khw_B aa_E
+ข้าง 0.999344 kh_B aa_I ng^_E
+ซ้าย 0.999690 s_B aa_I j^_E
+ตอบ 0.999627 t_B @@_I p^_E
+ทอย 0.999505 th_B @@_I j^_E
+ท่า 0.999526 th_B aa_E
+ธรรมดา 0.999153 th_B a_I m^_I m_I a_I d_I aa_E
+บน 0.999248 b_B o_I n^_E
+ปุ่ม 0.999497 p_B u_I m^_E
+มา 0.997586 m_B aa_E
+รัว 0.999351 r_B uua_E
+ลูกเต๋า 0.993060 l_B uu_I k^_I t_I aa_I w^_E
+ล่าง 0.998881 l_B aa_I ng^_E
+วงกลม 0.998200 w_B o_I ng^_I kl_I o_I m^_E
+สลับ 0.998401 s_B a_I l_I a_I p^_E
+สามเหลี่ยม 0.998997 s_B aa_I m^_I l_I ii_I m^_E
+สี่เหลี่ยม 0.680377 s_B ii_I l_I ii_I m^_E
+หนี 0.999629 n_B ii_E
+ออก 0.999144 z_B @@_I k^_E
+เยอะ 0.998896 j_B q_E
+เวทมนต์ 0.999517 w_B ee_I t^_I m_I o_I n^_E
+เหรียญ 0.999058 r_B iia_I n^_E
+โกวาจี 0.999593 k_B oo_I w_I aa_I c_I ii_E
+ใช่ 0.998200 ch_B a_I j^_E
+ใช้ 0.998961 ch_B aa_I j^_E
+ไป 0.997856 p_B a_I j^_E
+ไม่ 0.998063 m_B a_I j^_E
+ไม้ตาย 0.999443 m_B aa_I j^_I t_I aa_I j^_E
